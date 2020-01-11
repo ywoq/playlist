@@ -1,208 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="", FILM
-#EXTINF:-1, tvg-id="AMC" tvg-name="AMC", AMC
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34434.ts |User-Agent=VLC
-#EXTINF:-1, tvg-id="AXN" tvg-name="AXN", AXN
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34431.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="" tvg-name="", AXN Black
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34430.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="" tvg-name="", AXN White
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34429.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="COOL" tvg-name="Cool", Cool
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34354.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DIGIFILM" tvg-name="DIGI Film", DIGI Film
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34350.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="film+" tvg-name="film+", film+
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34416.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FILMMANIA" tvg-name="Film Mánia", Film Mania
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34414.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FILMBOX" tvg-name="Filmbox", Filmbox
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34413.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FILMBOXFAMILY" tvg-name="Filmbox Family", Filmbox Family
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34412.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FILMCAFE" tvg-name="Filmcafe", FilmCafe
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34410.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX", FOX
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34408.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="GALAXY" tvg-name="Galaxy", Galaxy
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34407.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HBOHD" tvg-name="HBO",  HU: HBO HBO
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34405.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HBO2" tvg-name="HBO 2", HBO 2
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34404.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HBO3" tvg-name="HBO 3", HBO 3 ENG
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34403.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="MOZI_PLUSZ" tvg-name="Mozi+", Mozi+
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34395.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="PARAMOUNT" tvg-name="Paramount Channel", Paramount Channel
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34385.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="PRIME" tvg-name="Prime", Prime
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34384.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="VIASAT3" tvg-name="VIASAT3", VIASAT3
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34362.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="VIASAT6" tvg-name="VIASAT6", VIASAT6
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34361.ts |User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="", KERESKEDELMI
-#EXTINF:-1, tvg-id="ATV" tvg-name="ATV", ATV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34432.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DUNA" tvg-name="DUNA Televízió", Duna Televizio
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34340.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="ECHOTV" tvg-name="Echo TV", Echo TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34338.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FEM3" tvg-name="FEM3", FEM3
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34337.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="RTL Gold" tvg-name="RTL Gold", RTL Gold
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34415.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FIXTV" tvg-name="FIX (HD)", FIX TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34409.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HETI_TV" tvg-name="Heti TV", Heti TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34335.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HIRTV" tvg-name="Hír TV", Hir TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34334.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="RTL_PLUSZ" tvg-name="RTL_PLUSZ", RTL+
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34382.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="RTL2" tvg-name="RTL II", RTL II
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34381.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="RTL" tvg-name="RTL Klub", RTL Klub
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34323.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="RTL_SPIKE" tvg-name="RTL Spike", RTL Spike
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34379.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="STORY4" tvg-name="STORY4", Story 4
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34369.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="STORY5" tvg-name="STORY5", Story 5
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34368.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SUPERTV2" tvg-name="SuperTV2", SuperTV2
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34321.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="TV2" tvg-name="TV2", TV2
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34364.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="TV2" tvg-name="TV2", TV2 HD
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34319.ts |User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="", ISMERETTERJESZTŐ
-#EXTINF:-1,tvg-id="ANIMAL" tvg-name="Animal Planet", Animal Planet
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34433.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="CBSREALITY" tvg-name="CBS Reality", CBS Reality
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34359.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="LiChi TV" tvg-name="LiChi TV", LiChi TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34358.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DIGIANIMALWORLD" tvg-name="DIGI Animal World", DIGI Animal World HD ENG
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34351.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DIGILIFE" tvg-name="DIGI Life", Digi Life ENG
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34349.ts |User-Agent=VLC
-#EXTINF:-1, tvg-id="DIGIWORLD" tvg-name="DIGI World", DIGI World ENG
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34346.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DISCOVERY" tvg-name="Discovery Channel", Discovery Channel
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34421.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DISCOVERYSCI" tvg-name="Discovery Science", Discovery Science
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34420.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DOQ" tvg-name="DOQ", DOQ
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34344.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FOODNETWORK" tvg-name="Food Network", Food Network
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34336.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY", HISTORY
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34402.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="M5" tvg-name="M5", M5
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34331.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="NATGEOHD" tvg-name="Nat Geo HD", Nat Geo HD
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34391.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="NATGEOWILD" tvg-name="Nat Geo Wild", Nat Geo Wild
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34390.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="NATGEO" tvg-name="National Geographic", National Geographic
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34389.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="OZONE_TV" tvg-name="OzoneTv", Ozone Network
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34386.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="PAPRIKA" tvg-name="TV Paprika", PaprikaTV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34326.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SPEKTRUM" tvg-name="Spektrum", Spektrum
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34376.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SPEKTRUMHOME" tvg-name="Spektrum Home", Spektrum Home
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34375.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FISHING_HUNTING" tvg-name="Fishing & Hunting", The Fishing & Hunting HD
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34320.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="FISHING_HUNTING" tvg-name="Fishing & Hunting", The Fishing and Hunting
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34367.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="TLC" tvg-name="TLC", TLC
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34366.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="TRAVEL" tvg-name="Travel Channel", Travel Channel
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34365.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="VIASATHIST" tvg-name="Viasat History", Viasat History
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34363.ts |User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="", GYEREK
-#EXTINF:-1,tvg-id="BOOMERANG" tvg-name="Boomerang", Boomerang
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34427.ts |User-Agent=VLC
-#EXTINF:-1, tvg-id="Minimax" tvg-name="Minimax", Minimax
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34360.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="CARTOON" tvg-name="Cartoon Network", Cartoon Network
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34425.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="Da Vinci TV" tvg-name="Da Vinci TV", DaVinci Learning
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34353.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DISNEY" tvg-name="Disney Channel", Disney Channel
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34345.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DUCKTV" tvg-name="Duck TV", Duck TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34342.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="KIWI_TV" tvg-name="Kiwi TV", Kiwi TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34398.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="MEGAMAX" tvg-name="Megamax", Megamax
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34396.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="Nickelodeon", Nickelodeon
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34388.ts |User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="", ZENE
-#EXTINF:-1,tvg-id="HIT_MUSIC" tvg-name="H!T Music Channel", H!T MUSIC Channel
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34406.ts |User-Agent=VLC
-#EXTINF:-1, MTV DANCE
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34329.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="MTVHU" tvg-name="MTV", MTV EU
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34394.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HIT_MUSIC" tvg-name="H!T Music Channel", Music Channel
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34393.ts |User-Agent=VLC
-#EXTINF:-1, tvg-id="MUSICCHANNEL" tvg-name="MUSICCHANNEL", MusicTV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34328.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="MUZSIKATV" tvg-name="Muzsika TV", Muzsika TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34392.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SLAGERTV" tvg-name="Sláger TV", SlagerTV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34378.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="VH1" tvg-name="VH1", VH1 Europe
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34318.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="ZENEBUTIK" tvg-name="Zenebutik", Zenebutik
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34317.ts |User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="", SPORT
-#EXTINF:-1, tvg-id="DIGISPORT1" tvg-name="DIGI Sport 1", DIGI Sport 1 HD
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34424.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DIGISPORT2" tvg-name="DIGI Sport 2", DIGI Sport 2 HD
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34347.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="DIGISPORT3" tvg-name="DIGI Sport 3", DIGI Sport 3
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34422.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="Eurosport 1", Eurosport 1
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34419.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="EUROSPORT2" tvg-name="Eurosport 2", Eurosport 2
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34418.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="EXTREMESP" tvg-name="Extreme Sports", Extreme Sports
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34417.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="M4_SPORT" tvg-name="M4 Sport", M4-SD 
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34332.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="Spíler1 TV" tvg-name="Spíler1 TV", Spiler TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34374.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SPORT1" tvg-name="Sport1", Sport 1 HD
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34322.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SPORT2" tvg-name="Sport2", Sport2
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34372.ts |User-Agent=VLC
-#EXTINF:-1, Sport5
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34371.ts |User-Agent=VLC
-#EXTINF:-1, SportM
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34370.ts |User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="", EGYÉB
-#EXTINF:-1,tvg-id="COMEDY" tvg-name="Comedy Central", Comedy Central
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34355.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="HUMOR_PLUSZ" tvg-name="HUMOR_PLUSZ", Humor+
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34401.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="IZAURA_TV" tvg-name="Izaura TV", Izaura TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34399.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="PAX" tvg-name="PAX Tv",  HU: PAX PAX TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34325.ts |User-Agent=VLC
-#EXTINF:-1, Private TV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34383.ts |User-Agent=VLC
-#EXTINF:-1, DorcelTV
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34343.ts |User-Agent=VLC
-#EXTINF:-1,tvg-id="SOROZAT" tvg-name="Sorozat+", Sorozat+
-http://i.ucertech.net:80/live/Ka4SDa02zb/LQmXbAxKjX/34377.ts |User-Agent=VLC
-# Playlist updated by EPG merge tool @ http://epg.gravi.hu/iptv/epg_merge.php
-# Generation date: Monday 23rd of April 2018 04:23:31 PM
+#EXTINF:-1,HU | tvg-id="" tvg-name="M1" tvg-logo="" group-title="Hungary",M1 HD
+http://152.66.115.226:33391/bysid/100
+#EXTINF:-1,HU | tvg-id="" tvg-name="M2 / Petőfi TV" tvg-logo="" group-title="Hungary",M2 HD
+http://152.66.115.226:33390/bysid/200
+#EXTINF:-1,HU | tvg-id="" tvg-name="M3" tvg-logo="" group-title="Hungary",M3
+https://stream.radioszerver.com:443/m3/00AMyEDM3EzN.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="M4 Sport" tvg-logo="" group-title="Hungary",M4 Sport (HD)
+http://152.66.115.226:33391/bysid/101
+#EXTINF:-1,HU | tvg-id="" tvg-name="M5" tvg-logo="" group-title="Hungary",M5 (HD)
+http://152.66.115.226:33390/bysid/202
+#EXTINF:-1,HU |tvg-id="" tvg-name="Duna" tvg-logo="" group-title="Hungary",Duna 
+http://152.66.115.226:33391/bysid/121
+#EXTINF:-1,HU | tvg-id="" tvg-name="Duna World" tvg-logo="" group-title="Hungary",Duna World HD
+http://152.66.115.226:33391/bysid/120
+#EXTINF:-1,HU | tvg-id="" tvg-name="Rtl klub" tvg-logo="" group-title="Hungary",Rtl klub
+http://152.66.115.226:33390/bysid/203
+#EXTINF:-1,HU | tvg-id="" tvg-name="TV2" tvg-logo="" group-title="Hungary",TV2 
+http://152.66.115.226:33390/bysid/204
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Hungary",ATV
+http://nodes.stream.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Budapest Europa Televizio" tvg-logo="" group-title="Hungary",Budapest 
+https://cloudfront44.lexanetwork.com:1440/HDE021/hls/livestream.sdp.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Fix TV" tvg-logo="" group-title="Hungary",FIX TV
+rtmp://video.fixhd.tv:1935/fix/sd.stream
+#EXTINF:-1,HU | tvg-id="" tvg-name="Fix TV" tvg-logo="" group-title="Hungary",FIX TV (HD)
+rtmp://video.fixhd.tv:1935/fix/hd.stream
+#EXTINF:-1,HU | tvg-id="" tvg-name="Fishing & Hunting" tvg-logo="" group-title="Hungary",Fishing & Hunting
+http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
+#EXTINF:-1,HU | tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Hungary", National Geographic
+http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
+#EXTINF:-1,HU | tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="Hungary",  NatGeo Wild
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
+#EXTINF:-1,HU | tvg-id="" tvg-name="Bonum TV" tvg-logo="" group-title="Hungary", Bonum TV
+https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
+#EXTINF:-1,Helyi | tvg-id="" tvg-name="Balaton TV" tvg-logo="" group-title="Hungary", Balaton TV
+http://stream.iptvservice.eu:80/hls/balatontv.m3u8
+#EXTINF:-1,Helyi | tvg-id="" tvg-name="Gyöngyösi TV" tvg-logo="" group-title="Hungary", Gyöngyösi TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Hatoscsatorna" tvg-logo="" group-title="Hungary",Hatoscsatorna
+http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/chunks.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="Hungary", Euronews
+https://www.youtube.com/watch?v=VzH5hRxt31k&feature=emb_logo
+#EXTINF:-1,HU | tvg-id="" tvg-name="D1" tvg-logo="" group-title="Hungary", D1
+https://stream.radioszerver.com:443/d1tv/00AMyEDM3EzN.m3u8  
+#EXTINF:-1,HU | tvg-id="" tvg-name="Pax TV" tvg-logo="" group-title="Hungary", Pax TV
+https://stream.radioszerver.com:443/pax/00AMyEDM3EzN.m3u8 
+#EXTINF:-1,HU | tvg-id="" tvg-name="Fem 3" tvg-logo="" group-title="Hungary", Fem 3
+https://stream.radioszerver.com:443/fem3/00AMyEDMwETO.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Izaura Tv" tvg-logo="" group-title="Hungary", Izaura TV
+https://stream.radioszerver.com:443/izaura/00AMyEDM3EzN.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Hitmusic" tvg-logo="" group-title="Hungary", Hitmusic
+http://hitmusic.hu:80/hitmusic.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Misic 1" tvg-logo="" group-title="Hungary", Music 1
+https://1music.hu:443/1music.m3u8
+#EXTINF:-1,HU | tvg-id="" tvg-name="Fit HD" tvg-logo="" group-title="Hungary", Fit HD
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=fithd
+#EXTINF:-1,HU | tvg-id="" tvg-name="StreamSport" tvg-logo="" group-title="Hungary", StreamSport
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
