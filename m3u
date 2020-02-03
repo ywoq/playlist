@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,HU | tvg-id="" tvg-name="M1" tvg-logo="" group-title="Hungary",M1 HD
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1,HU | tvg-id="" tvg-name="M2 / Petőfi TV" tvg-logo="" group-title="Hungary",M2 HD
+#EXTINF:-1,HU | tvg-id="" tvg-name="M2/Petofi" tvg-logo="" group-title="Hungary",M2 HD
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1,HU | tvg-id="" tvg-name="M3" tvg-logo="" group-title="Hungary",M3
 https://stream.radioszerver.com:443/m3/00AMyEDM3EzN.m3u8
@@ -9,7 +9,7 @@ https://stream.radioszerver.com:443/m3/00AMyEDM3EzN.m3u8
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1,HU | tvg-id="" tvg-name="M5" tvg-logo="" group-title="Hungary",M5 (HD)
 http://152.66.115.226:33390/bysid/202
-#EXTINF:-1,HU |tvg-id="" tvg-name="Duna" tvg-logo="" group-title="Hungary",Duna 
+#EXTINF:-1,HU |tvg-id="" tvg-name="Duna TV" tvg-logo="" group-title="Hungary",Duna TV
 http://152.66.115.226:33391/bysid/121
 #EXTINF:-1,HU | tvg-id="" tvg-name="Duna World" tvg-logo="" group-title="Hungary",Duna World HD
 http://152.66.115.226:33391/bysid/120
