@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,HU | tvg-id="" tvg-name="" tvg-logo="" group-title="Hungary",
+#EXTINF:-1,HU | tvg-id="" tvg-name="" tvg-logo="" group-title="Hungary",M1 HD
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1,HU | tvg-id="" tvg-name="M2 / Petőfi TV" tvg-logo="" group-title="Hungary",M2 HD
 http://152.66.115.226:33390/bysid/200
@@ -17,7 +17,7 @@ http://152.66.115.226:33391/bysid/120
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1,HU | tvg-id="" tvg-name="TV2" tvg-logo="" group-title="Hungary",TV2 
 http://152.66.115.226:33390/bysid/204
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Hungary",ATV
+#EXTINF:-1,HU | tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Hungary",ATV
 http://nodes.stream.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="AMC HU" tvg-logo="" group-title="Hungary", AMC HU
 http://92.249.148.48:8001/play/a00x
@@ -25,23 +25,23 @@ http://92.249.148.48:8001/play/a00x
 http://193.33.39.106:8787
 #EXTINF:-1,HU | tvg-id="" tvg-name="Cool" tvg-logo="" group-title="Hungary", Cool
 http://193.33.39.106:8788
-#EXTINF:-1, tvg-id="" tvg-name="Filmcafe" tvg-logo="" group-title="Hungary", Filmcafe
+#EXTINF:-1,HU | tvg-id="" tvg-name="Filmcafe" tvg-logo="" group-title="Hungary", Filmcafe
 http://92.249.148.48:8001/play/a00l
-#EXTINF:-1, tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="Hungary", Galaxy
+#EXTINF:-1,HU | tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="Hungary", Galaxy
 http://92.249.148.48:8001/play/a00v
-#EXTINF:-1, tvg-id="" tvg-name="Moziverzum" tvg-logo="" group-title="Hungary", Moziverzum
+#EXTINF:-1,HU | tvg-id="" tvg-name="Moziverzum" tvg-logo="" group-title="Hungary", Moziverzum
 http://92.249.148.48:8001/play/a006
-#EXTINF:-1, tvg-id="" tvg-name="RTLII" tvg-logo="" group-title="Hungary", RTLII HD
+#EXTINF:-1,HU | tvg-id="" tvg-name="RTLII" tvg-logo="" group-title="Hungary", RTLII HD
 http://92.249.148.48:8001/play/rtl2hd
-#EXTINF:-1, tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="Hungary", Sony Max
+#EXTINF:-1,HU | tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="Hungary", Sony Max
 http://92.249.148.48:8001/play/a00e
-#EXTINF:-1, tvg-id="" tvg-name="Sony Movie Channel" tvg-logo="" group-title="Hungary", Sony Movie Channel
+#EXTINF:-1,HU | tvg-id="" tvg-name="Sony Movie Channel" tvg-logo="" group-title="Hungary", Sony Movie Channel
 http://92.249.148.48:8001/play/a00d
-#EXTINF:-1, tvg-id="" tvg-name="SuperTV2" tvg-logo="" group-title="Hungary", Super TV2
+#EXTINF:-1,HU | tvg-id="" tvg-name="SuperTV2" tvg-logo="" group-title="Hungary", Super TV2
 http://92.249.148.48:8001/play/stv2
-#EXTINF:-1, tvg-id="" tvg-name="TV4 TV" tvg-logo="" group-title="Hungary", TV4
+#EXTINF:-1,HU | tvg-id="" tvg-name="TV4 TV" tvg-logo="" group-title="Hungary", TV4
 http://92.249.148.48:8001/play/a00t
-#EXTINF:-1 tvg-id="" tvg-name="Budapest Europa Televizio" tvg-logo="" group-title="Hungary",Budapest 
+#EXTINF:-1,HU | tvg-id="" tvg-name="Budapest Europa Televizio" tvg-logo="" group-title="Hungary",Budapest 
 https://cloudfront44.lexanetwork.com:1440/HDE021/hls/livestream.sdp.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Fix TV" tvg-logo="" group-title="Hungary",FIX TV
 rtmp://video.fixhd.tv:1935/fix/sd.stream
@@ -53,9 +53,9 @@ http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
 #EXTINF:-1,HU | tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="Hungary",  NatGeo Wild
 https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
-#EXTINF:-1,tvg-id="" tvg-name="Viasat Explorer" tvg-logo="" group-title="Hungary", Viasat Explorer
+#EXTINF:-1,HU | tvg-id="" tvg-name="Viasat Explorer" tvg-logo="" group-title="Hungary", Viasat Explorer
 http://92.249.148.48:8001/play/a00o
-#EXTINF:-1, tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="Hungary", HISTORY HD
+#EXTINF:-1,HU | tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="Hungary", HISTORY HD
 http://92.249.148.48:8001/play/a00g
 #EXTINF:-1,HU | tvg-id="" tvg-name="Bonum TV" tvg-logo="" group-title="Hungary", Bonum TV
 https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
@@ -75,11 +75,11 @@ https://stream.radioszerver.com:443/pax/00AMyEDM3EzN.m3u8
 https://stream.radioszerver.com:443/fem3/00AMyEDMwETO.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Izaura Tv" tvg-logo="" group-title="Hungary", Izaura TV
 https://stream.radioszerver.com:443/izaura/00AMyEDM3EzN.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Hungary", Comedy Central
+#EXTINF:-1,HU | tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Hungary", Comedy Central
 http://92.249.148.48:8001/play/a00c
-#EXTINF:-1, tvg-id="" tvg-name="Hír TV" tvg-logo="" group-title="Hungary", Hír TV
+#EXTINF:-1,HU | tvg-id="" tvg-name="Hír TV" tvg-logo="" group-title="Hungary", Hír TV
 http://92.249.148.48:8001/play/a00i
-#EXTINF:-1, tvg-id="" tvg-name="Jocky TV" tvg-logo="" group-title="Hungary", Jocky TV
+#EXTINF:-1,HU | tvg-id="" tvg-name="Jocky TV" tvg-logo="" group-title="Hungary", Jocky TV
 http://92.249.148.48:8001/play/a005
 #EXTINF:-1,HU | tvg-id="" tvg-name="Hitmusic" tvg-logo="" group-title="Hungary", Hitmusic
 http://hitmusic.hu:80/hitmusic.m3u8
@@ -95,13 +95,13 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Loverseny" tvg-logo="" group-title="Hungary", Lóverseny
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Spíler TV" tvg-logo="" group-title="Hungary", Spíler1 TV
+#EXTINF:-1,HU | tvg-id="" tvg-name="Spíler TV" tvg-logo="" group-title="Hungary", Spíler1 TV
 http://92.249.148.48:8001/play/sp1
-#EXTINF:-1, tvg-id="" tvg-name="Spíler TV 2" tvg-logo="" group-title="Hungary", Spíler2 TV
+#EXTINF:-1,HU | tvg-id="" tvg-name="Spíler TV 2" tvg-logo="" group-title="Hungary", Spíler2 TV
 http://92.249.148.48:8001/play/sp2
 #EXTINF:-1,HU | tvg-id="" tvg-name="DIGI Sport 1" tvg-logo="" group-title="Hungary", Digi Sport 1
 http://193.33.39.106:8781
-#EXTINF:-1, tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="Hungary", Nick Jr.
+#EXTINF:-1,HU | tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="Hungary", Nick Jr.
 http://92.249.148.48:8001/play/a00f
-#EXTINF:-1, tvg-id="" tvg-name="Minimax" tvg-logo="" group-title="Hungary", Minimax
+#EXTINF:-1,HU | tvg-id="" tvg-name="Minimax" tvg-logo="" group-title="Hungary", Minimax
 http://92.249.148.48:8001/play/a00n
