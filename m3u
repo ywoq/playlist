@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,HU | tvg-id="" tvg-name="M1" tvg-logo="" group-title="Hungary",M1 HD
+#EXTINF:-1,HU | tvg-id="" tvg-name="m1" tvg-logo="" group-title="Hungary",M1 HD
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1,HU | tvg-id="" tvg-name="M2/Petőfi TV" tvg-logo="" group-title="Hungary",M2/Petőfi TV
+#EXTINF:-1,HU | tvg-id="" tvg-name="m2 / Petofi" tvg-logo="" group-title="Hungary",m2 / Petofi
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1,HU | tvg-id="" tvg-name="M3" tvg-logo="" group-title="Hungary",M3
 https://stream.radioszerver.com:443/m3/00AMyEDM3EzN.m3u8
