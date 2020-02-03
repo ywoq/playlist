@@ -27,19 +27,19 @@ http://193.33.39.106:8787
 http://193.33.39.106:8788
 #EXTINF:-1, tvg-id="" tvg-name="Filmcafe" tvg-logo="" group-title="Hungary", Filmcafe
 http://92.249.148.48:8001/play/a00l
-#EXTINF:-1,Galaxy4
+#EXTINF:-1, tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="Hungary", Galaxy
 http://92.249.148.48:8001/play/a00v
-#EXTINF:-1,Moziverzum
+#EXTINF:-1, tvg-id="" tvg-name="Moziverzum" tvg-logo="" group-title="Hungary", Moziverzum
 http://92.249.148.48:8001/play/a006
-#EXTINF:-1,RTLII HD
+#EXTINF:-1, tvg-id="" tvg-name="RTLII" tvg-logo="" group-title="Hungary", RTLII HD
 http://92.249.148.48:8001/play/rtl2hd
-#EXTINF:-1,Sony Max
+#EXTINF:-1, tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="Hungary", Sony Max
 http://92.249.148.48:8001/play/a00e
-#EXTINF:-1,Sony Movie Channel
+#EXTINF:-1, tvg-id="" tvg-name="Sony Movie Channel" tvg-logo="" group-title="Hungary", Sony Movie Channel
 http://92.249.148.48:8001/play/a00d
-#EXTINF:-1,Super TV2
+#EXTINF:-1, tvg-id="" tvg-name="SuperTV2" tvg-logo="" group-title="Hungary", Super TV2
 http://92.249.148.48:8001/play/stv2
-#EXTINF:-1,TV4
+#EXTINF:-1, tvg-id="" tvg-name="TV4 TV" tvg-logo="" group-title="Hungary", TV4
 http://92.249.148.48:8001/play/a00t
 #EXTINF:-1 tvg-id="" tvg-name="Budapest Europa Televizio" tvg-logo="" group-title="Hungary",Budapest 
 https://cloudfront44.lexanetwork.com:1440/HDE021/hls/livestream.sdp.m3u8
@@ -53,9 +53,9 @@ http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
 #EXTINF:-1,HU | tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="Hungary",  NatGeo Wild
 https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
-#EXTINF:-1,Viasat Explore
+#EXTINF:-1,tvg-id="" tvg-name="Viasat Explorer" tvg-logo="" group-title="Hungary", Viasat Explorer
 http://92.249.148.48:8001/play/a00o
-#EXTINF:-1,HISTORY HD
+#EXTINF:-1, tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="Hungary", HISTORY HD
 http://92.249.148.48:8001/play/a00g
 #EXTINF:-1,HU | tvg-id="" tvg-name="Bonum TV" tvg-logo="" group-title="Hungary", Bonum TV
 https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
@@ -75,11 +75,11 @@ https://stream.radioszerver.com:443/pax/00AMyEDM3EzN.m3u8
 https://stream.radioszerver.com:443/fem3/00AMyEDMwETO.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Izaura Tv" tvg-logo="" group-title="Hungary", Izaura TV
 https://stream.radioszerver.com:443/izaura/00AMyEDM3EzN.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1, tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Hungary", Comedy Central
 http://92.249.148.48:8001/play/a00c
-#EXTINF:-1,Hír TV
+#EXTINF:-1, tvg-id="" tvg-name="Hír TV" tvg-logo="" group-title="Hungary", Hír TV
 http://92.249.148.48:8001/play/a00i
-#EXTINF:-1,Jocky TV
+#EXTINF:-1, tvg-id="" tvg-name="Jocky TV" tvg-logo="" group-title="Hungary", Jocky TV
 http://92.249.148.48:8001/play/a005
 #EXTINF:-1,HU | tvg-id="" tvg-name="Hitmusic" tvg-logo="" group-title="Hungary", Hitmusic
 http://hitmusic.hu:80/hitmusic.m3u8
@@ -95,15 +95,13 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Loverseny" tvg-logo="" group-title="Hungary", Lóverseny
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:-1,Spíler1 TV
+#EXTINF:-1, tvg-id="" tvg-name="Spíler TV" tvg-logo="" group-title="Hungary", Spíler1 TV
 http://92.249.148.48:8001/play/sp1
-#EXTINF:-1,Spíler2 TV
+#EXTINF:-1, tvg-id="" tvg-name="Spíler TV 2" tvg-logo="" group-title="Hungary", Spíler2 TV
 http://92.249.148.48:8001/play/sp2
 #EXTINF:-1,HU | tvg-id="" tvg-name="DIGI Sport 1" tvg-logo="" group-title="Hungary", Digi Sport 1
 http://193.33.39.106:8781
-#EXTINF:-1,Nick Jr.
+#EXTINF:-1, tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="Hungary", Nick Jr.
 http://92.249.148.48:8001/play/a00f
-#EXTINF:-1,Minimax
+#EXTINF:-1, tvg-id="" tvg-name="Minimax" tvg-logo="" group-title="Hungary", Minimax
 http://92.249.148.48:8001/play/a00n
-#EXTINF:-1,HU | tvg-id="" tvg-name="MeseTv" tvg-logo="" group-title="Hungary", Mesetv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1578794575/ei/7ykaXurtHJi_gQfSxYOYDA/ip/176.63.18.226/id/xI32M4Pv6SM.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhAKi7u_b_BxpO2-GHKQLPeR_6EWdQz72Wk5yHkiSbMTDxAiAHawPZbtsnLpYVNZQbrg4HxJ2DM-XquGdHPlpk38oipg%3D%3D/file/index.m3u8
