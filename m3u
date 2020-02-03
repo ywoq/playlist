@@ -27,8 +27,6 @@ http://193.33.39.106:8787
 http://193.33.39.106:8788
 EXTINF:-1, tvg-id="" tvg-name="Filmcafe" tvg-logo="" group-title="Hungary", Filmcafe
 http://92.249.148.48:8001/play/a00l
-#EXTINF:-1,Film+
-http://92.249.148.48:8001/play/fplus
 #EXTINF:-1,Galaxy4
 http://92.249.148.48:8001/play/a00v
 #EXTINF:-1,Moziverzum
