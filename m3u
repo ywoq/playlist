@@ -41,10 +41,6 @@ http://92.249.148.48:8001/play/a00d
 http://92.249.148.48:8001/play/stv2
 #EXTINF:-1,HU | tvg-id="" tvg-name="TV4 TV" tvg-logo="" group-title="Hungary", TV4
 http://92.249.148.48:8001/play/a00t
-#EXTINF:-1,HU | tvg-id="" tvg-name="Budapest Europa Televizio" tvg-logo="" group-title="Hungary",Budapest 
-https://cloudfront44.lexanetwork.com:1440/HDE021/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Fix TV" tvg-logo="" group-title="Hungary",FIX TV
-rtmp://video.fixhd.tv:1935/fix/sd.stream
 #EXTINF:-1,HU | tvg-id="" tvg-name="Fix TV" tvg-logo="" group-title="Hungary",FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1,HU | tvg-id="" tvg-name="Fishing & Hunting" tvg-logo="" group-title="Hungary",Fishing & Hunting
@@ -57,24 +53,10 @@ https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
 http://92.249.148.48:8001/play/a00o
 #EXTINF:-1,HU | tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="Hungary", HISTORY HD
 http://92.249.148.48:8001/play/a00g
-#EXTINF:-1,HU | tvg-id="" tvg-name="Bonum TV" tvg-logo="" group-title="Hungary", Bonum TV
-https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
-#EXTINF:-1,Helyi | tvg-id="" tvg-name="Balaton TV" tvg-logo="" group-title="Hungary", Balaton TV
-http://stream.iptvservice.eu:80/hls/balatontv.m3u8
 #EXTINF:-1,Helyi | tvg-id="" tvg-name="Gyöngyösi TV" tvg-logo="" group-title="Hungary", Gyöngyösi TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Hatoscsatorna" tvg-logo="" group-title="Hungary",Hatoscsatorna
 http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/chunks.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="Hungary", Euronews
-https://www.youtube.com/watch?v=pa_6zA-8_tY&feature=emb_logo
-#EXTINF:-1,HU | tvg-id="" tvg-name="D1" tvg-logo="" group-title="Hungary", D1
-https://stream.radioszerver.com:443/d1tv/00AMyEDM3EzN.m3u8  
-#EXTINF:-1,HU | tvg-id="" tvg-name="Pax TV" tvg-logo="" group-title="Hungary", Pax TV
-https://stream.radioszerver.com:443/pax/00AMyEDM3EzN.m3u8 
-#EXTINF:-1,HU | tvg-id="" tvg-name="Fem 3" tvg-logo="" group-title="Hungary", Fem 3
-https://stream.radioszerver.com:443/fem3/00AMyEDMwETO.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Izaura Tv" tvg-logo="" group-title="Hungary", Izaura TV
-https://stream.radioszerver.com:443/izaura/00AMyEDM3EzN.m3u8
 #EXTINF:-1,HU | tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Hungary", Comedy Central
 http://92.249.148.48:8001/play/a00c
 #EXTINF:-1,HU | tvg-id="" tvg-name="Hír TV" tvg-logo="" group-title="Hungary", Hír TV
