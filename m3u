@@ -1,89 +1,173 @@
 #EXTM3U
-#EXTINF:-1,HU | channel id="m1" tvg-name="M1" tvg-logo="" group-title="Hungary",M1 HD
+#EXTINF:-1,==== Magyar =====
+#EXTINF:-1 , M1 
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1,HU | channel id="m2/Petofi" tvg-name="m2 / Petofi" tvg-logo="" group-title="Hungary",M2
+#EXTINF:-1 , M2 / Petofi 
 http://152.66.115.226:33390/bysid/200
-#EXTINF:-1,HU | tvg-id="" tvg-name="M3" tvg-logo="" group-title="Hungary",M3
-https://stream.radioszerver.com:443/m3/00AMyEDM3EzN.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="M4 Sport" tvg-logo="" group-title="Hungary",M4 Sport (HD)
-http://152.66.115.226:33391/bysid/101
-#EXTINF:-1,HU | tvg-id="" tvg-name="M5" tvg-logo="" group-title="Hungary",M5 (HD)
-http://152.66.115.226:33390/bysid/202
-#EXTINF:-1,HU |tvg-id="" tvg-name="Duna TV" tvg-logo="" group-title="Hungary",Duna TV
-http://152.66.115.226:33391/bysid/121
-#EXTINF:-1,HU | tvg-id="" tvg-name="Duna World" tvg-logo="" group-title="Hungary",Duna World HD
-http://152.66.115.226:33391/bysid/120
-#EXTINF:-1,HU | tvg-id="" tvg-name="Rtl klub" tvg-logo="" group-title="Hungary",Rtl klub
-http://152.66.115.226:33390/bysid/203
-#EXTINF:-1,HU | tvg-id="" tvg-name="TV2" tvg-logo="" group-title="Hungary",TV2 
-http://152.66.115.226:33390/bysid/204
-#EXTINF:-1,HU | tvg-id="" tvg-name="ATV" tvg-logo="" group-title="Hungary",ATV
-http://nodes.stream.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="AMC HU" tvg-logo="" group-title="Hungary", AMC HU
-http://92.249.148.48:8001/play/a00x
-#EXTINF:-1,HU | tvg-id="" tvg-name="film+" tvg-logo="" group-title="Hungary", Film+
-http://193.33.39.106:8787
-#EXTINF:-1,HU | tvg-id="" tvg-name="Cool" tvg-logo="" group-title="Hungary", Cool
-http://193.33.39.106:8788
-#EXTINF:-1,HU | tvg-id="" tvg-name="Filmcafe" tvg-logo="" group-title="Hungary", Filmcafe
-http://92.249.148.48:8001/play/a00l
-#EXTINF:-1,HU | tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="Hungary", Galaxy
-http://92.249.148.48:8001/play/a00v
-#EXTINF:-1,HU | tvg-id="" tvg-name="Moziverzum" tvg-logo="" group-title="Hungary", Moziverzum
-http://92.249.148.48:8001/play/a006
-#EXTINF:-1,HU | tvg-id="" tvg-name="RTLII" tvg-logo="" group-title="Hungary", RTLII HD
-http://92.249.148.48:8001/play/rtl2hd
-#EXTINF:-1,HU | tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="Hungary", Sony Max
-http://92.249.148.48:8001/play/a00e
-#EXTINF:-1,HU | tvg-id="" tvg-name="Sony Movie Channel" tvg-logo="" group-title="Hungary", Sony Movie Channel
-http://92.249.148.48:8001/play/a00d
-#EXTINF:-1,HU | tvg-id="" tvg-name="SuperTV2" tvg-logo="" group-title="Hungary", Super TV2
-http://92.249.148.48:8001/play/stv2
-#EXTINF:-1,HU | tvg-id="" tvg-name="TV4 TV" tvg-logo="" group-title="Hungary", TV4
-http://92.249.148.48:8001/play/a00t
-#EXTINF:-1,HU | tvg-id="" tvg-name="Fix TV" tvg-logo="" group-title="Hungary",FIX TV (HD)
-rtmp://video.fixhd.tv:1935/fix/hd.stream
-#EXTINF:-1,HU | tvg-id="" tvg-name="Fishing & Hunting" tvg-logo="" group-title="Hungary",Fishing & Hunting
-http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
-#EXTINF:-1,HU | tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Hungary", National Geographic
-http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
-#EXTINF:-1,HU | tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="Hungary",  NatGeo Wild
-https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
-#EXTINF:-1,HU | tvg-id="" tvg-name="Viasat Explorer" tvg-logo="" group-title="Hungary", Viasat Explorer
+#EXTINF:-1 , FIX 
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22432
+#EXTINF:-1 , M5 
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14574
+#EXTINF:-1 , ATV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22433
+#EXTINF:-1 , Duna TV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6833
+#EXTINF:-1 , Duna World 
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14558
+#EXTINF:-1 , FEM3
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12801
+#EXTINF:-1 , Echo TV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22262
+#EXTINF:-1 , Heti TV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22260
+#EXTINF:-1 , HirTV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22259
+#EXTINF:-1 , Sorozat+
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12798
+#EXTINF:-1 , Comedy Central
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14570
+#EXTINF:-1 , Food Network
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22261
+#EXTINF:-1 , Humor+
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14578
+#EXTINF:-1,==== Film =====
+#EXTINF:-1 , TV2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6834
+#EXTINF:-1 , RTL Klub
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22431
+#EXTINF:-1 , AMC HU
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22287
+#EXTINF:-1 , AXN CE
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14588
+#EXTINF:-1 , AXN Black
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14580
+#EXTINF:-1 , AXN White
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14577
+#EXTINF:-1 , Cool
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14585
+#EXTINF:-1 , Film NOW
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3610
+#EXTINF:-1 , Filmbox Arthouse
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22281
+#EXTINF:-1 , Film Mania
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7079
+#EXTINF:-1 , FilmBox Premium
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7078
+#EXTINF:-1 , Galaxy
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14579
+#EXTINF:-1, HBO HU 
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7075
+#EXTINF:-1, HBO2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7074
+#EXTINF:-1, HBO3
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14894
+#EXTINF:-1 , Mozi+ 
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14573
+#EXTINF:-1 , Moziverzum
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22275
+#EXTINF:-1 , Paramount Channel
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22273
+#EXTINF:-1 , Prime
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14569
+#EXTINF:-1 , RTL+
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22434
+#EXTINF:-1 , RTL Gold
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14583
+#EXTINF:-1 , RTL Spike
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14565
+#EXTINF:-1 , Sony Max
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14559
+#EXTINF:-1 , Viasat3
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/8199
+#EXTINF:-1 , Viasat6
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7058
+#EXTINF:-1,==== Ismeretterjesztő =====
+#EXTINF:-1 , Spektrum
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14562
+#EXTINF:-1 , History
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22279
+#EXTINF:-1 , Viasat History
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22271
+#EXTINF:-1 , Viasat Explore
 http://92.249.148.48:8001/play/a00o
-#EXTINF:-1,HU | tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="Hungary", HISTORY HD
-http://92.249.148.48:8001/play/a00g
-#EXTINF:-1,Helyi | tvg-id="" tvg-name="Gyöngyösi TV" tvg-logo="" group-title="Hungary", Gyöngyösi TV
-https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Hatoscsatorna" tvg-logo="" group-title="Hungary",Hatoscsatorna
-http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/chunks.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Hungary", Comedy Central
-http://92.249.148.48:8001/play/a00c
-#EXTINF:-1,HU | tvg-id="" tvg-name="Hír TV" tvg-logo="" group-title="Hungary", Hír TV
-http://92.249.148.48:8001/play/a00i
-#EXTINF:-1,HU | tvg-id="" tvg-name="Jocky TV" tvg-logo="" group-title="Hungary", Jocky TV
-http://92.249.148.48:8001/play/a005
-#EXTINF:-1,HU | tvg-id="" tvg-name="Hitmusic" tvg-logo="" group-title="Hungary", Hitmusic
-http://hitmusic.hu:80/hitmusic.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Misic 1" tvg-logo="" group-title="Hungary", Music 1
-https://1music.hu:443/1music.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Fit HD" tvg-logo="" group-title="Hungary", Fit HD
-https://redirect.onlinestream.live/hbbtv-as.cgi?id=fithd
-#EXTINF:-1,HU | tvg-id="" tvg-name="StreamSport" tvg-logo="" group-title="Hungary", StreamSport
-https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Erdély Tv" tvg-logo="" group-title="Hungary", Erdély TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,HU | tvg-id="" tvg-name="Fashiontv" tvg-logo="" group-title="Hungary", Fashion TV
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Loverseny" tvg-logo="" group-title="Hungary", Lóverseny
-http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:-1,HU | tvg-id="" tvg-name="Spíler TV" tvg-logo="" group-title="Hungary", Spíler1 TV
+#EXTINF:-1 , Discovery Channel
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22285
+#EXTINF:-1 , Discovery Science
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/20541
+#EXTINF:-1 ,  National Geographic
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14572
+#EXTINF:-1 , National Geographic Wild
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
+#EXTINF:-1 , OzoneTV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22266
+#EXTINF:-1 , Digi Life
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14563
+#EXTINF:-1 , DIGI World
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3607
+#EXTINF:-1 , Digi Animal World
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14582
+#EXTINF:-1 , Animal Planet
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22286
+#EXTINF:-1, Travel 
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/33661
+#EXTINF:-1 , Spektrum Home
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14561
+#EXTINF:-1 , CBS Reality
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22269
+#EXTINF:-1 , Investigation Discovery
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14584
+#EXTINF:-1,TV Paprika
+http://92.249.148.48:8001/play/a00m
+#EXTINF:-1,==== Sport =====
+#EXTINF:-1 ,Sport1
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6836
+#EXTINF:-1 , Sport2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6837
+#EXTINF:-1 , Eurosport 1
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22284
+#EXTINF:-1 , Eurosport 2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22283
+#EXTINF:-1 , DIGI Sport 1
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6825
+#EXTINF:-1 , DIGI Sport 2
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6824
+#EXTINF:-1 , DIGI Sport 3
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6821
+#EXTINF:-1 , Spiler1 TV
 http://92.249.148.48:8001/play/sp1
-#EXTINF:-1,HU | tvg-id="" tvg-name="Spíler TV 2" tvg-logo="" group-title="Hungary", Spíler2 TV
+#EXTINF:-1 , Spiler1 TV
+http://92.249.148.48:8001/play/sp1hd
+#EXTINF:-1 , Spíler2 TV
 http://92.249.148.48:8001/play/sp2
-#EXTINF:-1,HU | tvg-id="" tvg-name="DIGI Sport 1" tvg-logo="" group-title="Hungary", Digi Sport 1
-http://193.33.39.106:8781
-#EXTINF:-1,HU | tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="Hungary", Nick Jr.
-http://92.249.148.48:8001/play/a00f
-#EXTINF:-1,HU | tvg-id="" tvg-name="Minimax" tvg-logo="" group-title="Hungary", Minimax
-http://92.249.148.48:8001/play/a00n
+#EXTINF:-1 , Spíler2 TV HD
+http://92.249.148.48:8001/play/sp2hd
+#EXTINF:-1 , M4 Sport
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3605
+#EXTINF:-1 , Discovery Turbo Xtra (DTX)
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22264
+#EXTINF:-1 , Extreme Sports
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22282
+#EXTINF:-1 , Fishing and Hunting
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22258
+#EXTINF:-1,==== Gyerek =====
+#EXTINF:-1 , Nickelodeon HU
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22274
+#EXTINF:-1 , Disney Channel
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22265
+#EXTINF:-1 , Boomerang
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14575
+#EXTINF:-1 , Megamax
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22278
+#EXTINF:-1 , Minimax / C8
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22270
+#EXTINF:-1 , Duck TV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22263
+#EXTINF:-1 , Kiwi TV
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14576
+#EXTINF:-1,==== Zene =====
+#EXTINF:-1 , MTV Dance
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22277
+#EXTINF:-1 , Music Channel
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22276
+#EXTINF:-1 t, H!T MUSIC Channel
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22280
