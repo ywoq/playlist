@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,==== Magyar =====
 #EXTINF:-1, M1 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3608
 #EXTINF:-1, M2 / Petofi
@@ -10,7 +9,6 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14574
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6833
 #EXTINF:-1 , Duna World 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14558
-#EXTINF:-1,==== Film =====
 #EXTINF:-1 , TV2
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6834
 #EXTINF:-1 , RTL Klub
@@ -67,7 +65,6 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14559
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/8199
 #EXTINF:-1 , Viasat6
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7058
-#EXTINF:-1,==== Ismeretterjesztő =====
 #EXTINF:-1 , Spektrum
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14562
 #EXTINF:-1 , History
@@ -124,7 +121,6 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14570
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22261
 #EXTINF:-1 , Humor+
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14578
-#EXTINF:-1,==== Sport =====
 #EXTINF:-1 ,Sport1
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6836
 #EXTINF:-1 , Sport2
@@ -151,7 +147,6 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22264
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22282
 #EXTINF:-1 , Fishing and Hunting
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22258
-#EXTINF:-1,==== Gyerek =====
 #EXTINF:-1 , Nickelodeon HU
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22274
 #EXTINF:-1 , Disney Channel
@@ -166,7 +161,6 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22270
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22263
 #EXTINF:-1 , Kiwi TV
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14576
-#EXTINF:-1,==== Zene =====
 #EXTINF:-1 , MTV Dance
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22277
 #EXTINF:-1 , Music Channel
