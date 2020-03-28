@@ -73,7 +73,7 @@ http://hitmusic.hu:80/hitmusic.m3u8
 https://1music.hu:443/1music.m3u8
 #EXTINF:-1, Fit HD
 https://redirect.onlinestream.live/hbbtv-as.cgi?id=fithd
-#EXTINF:-1, Spíler1 TV
+#EXTINF:-1, Spiler1 TV
 http://92.249.148.48:8001/play/sp1
 #EXTINF:-1, Spíler2 TV
 http://92.249.148.48:8001/play/sp2
