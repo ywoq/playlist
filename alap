@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1, M1
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, M2 
+#EXTINF:-1, M2 / Petofi
 http://152.66.115.226:33390/bysid/200
-#EXTINF:-1, M4
+#EXTINF:-1, M4 Sport
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1, M5
 http://152.66.115.226:33390/bysid/201
-#EXTINF:-1, Duna
+#EXTINF:-1, Duna TV
 http://152.66.115.226:33391/bysid/102
 #EXTINF:-1, Duna World
 http://152.66.115.226:33391/bysid/103
@@ -19,7 +19,7 @@ http://193.33.39.106:8782
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1, RTL Klub
 http://193.33.39.106:8786
-#EXTINF:-1, FilmNow
+#EXTINF:-1, Film Now
 http://193.33.39.106:8790
 #EXTINF:-1, Cool
 http://193.33.39.106:8788
@@ -29,13 +29,13 @@ http://193.33.39.106:8787
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, AMC HU
 http://92.249.148.48:8001/play/a00x
-#EXTINF:-1, Filmcafe
+#EXTINF:-1, Film Cafe
 http://92.249.148.48:8001/play/a00l
 #EXTINF:-1, Galaxy
 http://92.249.148.48:8001/play/a00v
 #EXTINF:-1, Moziverzum
 http://92.249.148.48:8001/play/a006
-#EXTINF:-1, RTLII HD
+#EXTINF:-1, RTL2
 http://92.249.148.48:8001/play/rtl2hd
 #EXTINF:-1, Sony Max
 http://92.249.148.48:8001/play/a00e
@@ -47,27 +47,27 @@ http://92.249.148.48:8001/play/stv2
 http://92.249.148.48:8001/play/a00t
 #EXTINF:-1, FIX TV (HD)
 rtmp://video.fixhd.tv:1935/fix/hd.stream
-#EXTINF:-1, Fishing & Hunting
+#EXTINF:-1, Fishing and Hunting
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=pvtv
 #EXTINF:-1, National Geographic
 http://onlinestream.hu/redirect/hbbtv-as.cgi?id=natgeo
-#EXTINF:-1,  NatGeo Wild
+#EXTINF:-1,  National Geographic Wild
 https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
-#EXTINF:-1, Viasat Explorer
+#EXTINF:-1, Viasat Explore
 http://92.249.148.48:8001/play/a00o
-#EXTINF:-1, HISTORY HD
+#EXTINF:-1, History
 http://92.249.148.48:8001/play/a00g
 #EXTINF:-1, Gyöngyösi TV
 https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
-#EXTINF:-1, IzauraTV
+#EXTINF:-1, Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1,  Comedy Central
 http://92.249.148.48:8001/play/a00c
-#EXTINF:-1,  Hír TV
+#EXTINF:-1,  HírTV
 http://92.249.148.48:8001/play/a00i
 #EXTINF:-1, Jocky TV
 http://92.249.148.48:8001/play/a005
-#EXTINF:-1, Hitmusic
+#EXTINF:-1, H!T MUSIC Channel
 http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1, Music 1
 https://1music.hu:443/1music.m3u8
@@ -77,7 +77,7 @@ https://redirect.onlinestream.live/hbbtv-as.cgi?id=fithd
 http://92.249.148.48:8001/play/sp1
 #EXTINF:-1, Spíler2 TV
 http://92.249.148.48:8001/play/sp2
-#EXTINF:-1, Digi Sport1
+#EXTINF:-1, Digi Sport 1
 http://193.33.39.106:8781
 #EXTINF:-1, Nick Jr.
 http://92.249.148.48:8001/play/a00f
