@@ -3,6 +3,8 @@
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3608
 #EXTINF:-1, m2 / Petőfi TV
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3609
+#EXTINF:-1,HU: m3
+http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22432
 #EXTINF:-1 , M5 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14574
 #EXTINF:-1 , Duna Televízió
@@ -63,6 +65,8 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14583
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14565
 #EXTINF:-1 , Sony Max
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14559
+#EXTINF:-1, Sony Movie Channel
+http://92.249.148.48:8001/play/a00d
 #EXTINF:-1 , Viasat3
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/8199
 #EXTINF:-1 , Viasat6
@@ -83,7 +87,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/20541
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14572
 #EXTINF:-1 , Nat Geo Wild
 https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
-#EXTINF:-1 , OzoneTV
+#EXTINF:-1 , OzoneNetwork
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22266
 #EXTINF:-1 , Digi Life
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14563
@@ -99,7 +103,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/33661
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14561
 #EXTINF:-1 , CBS Reality
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22269
-#EXTINF:-1 , Investigation Discovery
+#EXTINF:-1 , ID Xtra
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14584
 #EXTINF:-1,TV Paprika
 http://92.249.148.48:8001/play/a00m
@@ -141,7 +145,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6825
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6824
 #EXTINF:-1 , DIGI Sport 3
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6821
-#EXTINF:-1 , Spiler1 TV
+#EXTINF:-1 , Spíler TV
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14560
 #EXTINF:-1 , Spíler2 TV
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22438
@@ -151,26 +155,28 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3605
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22264
 #EXTINF:-1 , Extreme Sports
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22282
-#EXTINF:-1 , Fishing and Hunting
+#EXTINF:-1, Fit HD
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=fithd
+#EXTINF:-1 , Fishing &amp; Hunting
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22258
-#EXTINF:-1 , Nickelodeon HU
+#EXTINF:-1 , Nickelodeon 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22274
 #EXTINF:-1 , Disney Channel
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22265
 #EXTINF:-1 , Boomerang
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14575
-#EXTINF:-1 , Megamax
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22278
-#EXTINF:-1 , Minimax / C8
+#EXTINF:-1 , Minimax
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22270
-#EXTINF:-1 , Duck TV
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22263
+#EXTINF:-1, Nick Jr.
+http://92.249.148.48:8001/play/a00f
 #EXTINF:-1 , Kiwi TV
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14576
 #EXTINF:-1 , MTV Dance
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22277
 #EXTINF:-1 , Music Channel
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22276
-#EXTINF:-1 t, H!T MUSIC Channel
+#EXTINF:-1 , H!T MUSIC Channel
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22280
+#EXTINF:-1, Gyöngyösi TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
 
