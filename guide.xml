@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTL Klub">
+    <display-name lang="hu">RTL Klub</display-name>
+    <icon src="https://media.port.hu/images/001/105/100x100/908.jpg" />
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="hu">TV2</display-name>
+    <icon src="https://media.port.hu/images/001/106/100x100/108.jpg" />
+    <url>http://www.port.hu</url>
+  </channel>
+  <programme start="20200419000000 +0200" stop="20200419014500 +0200" channel="RTL Klub">
+    <title lang="hu">Elárulva</title>
+  </programme>
+  <programme start="20200419014500 +0200" stop="20200419041000 +0200" channel="RTL Klub">
+    <title lang="hu">Nyolc préda</title>
+  </programme>
+  <programme start="20200419041000 +0200" stop="20200419045500 +0200" channel="RTL Klub">
+    <title lang="hu">Tini nindzsa teknőcök</title>
+  </programme>
+  <programme start="20200419045500 +0200" stop="20200419052000 +0200" channel="RTL Klub">
+    <title lang="hu">Pasik!</title>
+  </programme>
+  <programme start="20200419052000 +0200" stop="20200419060500 +0200" channel="RTL Klub">
+    <title lang="hu">Fókusz Plusz</title>
+    <desc lang="hu">(Ismétlés).(n)</desc>
+  </programme>
+  <programme start="20200419060500 +0200" stop="20200419063500 +0200" channel="RTL Klub">
+    <title lang="hu">Teleshop</title>
+    <desc lang="hu">(Élő).(n)</desc>
+  </programme>
+  <programme start="20200419063500 +0200" stop="20200419095000 +0200" channel="RTL Klub">
+    <title lang="hu">Kölyökklub</title>
+  </programme>
+  <programme start="20200419095000 +0200" stop="20200419104500 +0200" channel="RTL Klub">
+    <title lang="hu">Teleshop</title>
+    <desc lang="hu">(Élő).(n)</desc>
+  </programme>
+  <programme start="20200419104500 +0200" stop="20200419111500 +0200" channel="RTL Klub">
+    <title lang="hu">A Muzsika TV bemutatja</title>
+  </programme>
+  <programme start="20200419111500 +0200" stop="20200419115000 +0200" channel="RTL Klub">
+    <title lang="hu">Lila füge</title>
+  </programme>
+  <programme start="20200419115000 +0200" stop="20200419123000 +0200" channel="RTL Klub">
+    <title lang="hu">Szuperzöld</title>
+  </programme>
+  <programme start="20200419123000 +0200" stop="20200419131000 +0200" channel="RTL Klub">
+    <title lang="hu">Profi a konyhámban</title>
+  </programme>
+  <programme start="20200419131000 +0200" stop="20200419140500 +0200" channel="RTL Klub">
+    <title lang="hu">Cobra 11</title>
+  </programme>
+  <programme start="20200419140500 +0200" stop="20200419150500 +0200" channel="RTL Klub">
+    <title lang="hu">Cobra 11</title>
+  </programme>
+  <programme start="20200419150500 +0200" stop="20200419155500 +0200" channel="RTL Klub">
+    <title lang="hu">Made in Karantén</title>
+  </programme>
+  <programme start="20200419155500 +0200" stop="20200419180000 +0200" channel="RTL Klub">
+    <title lang="hu">Kicsi kocsi - Tele a tank</title>
+  </programme>
+  <programme start="20200419180000 +0200" stop="20200419185000 +0200" channel="RTL Klub">
+    <title lang="hu">RTL Híradó Esti kiadás</title>
+    <desc lang="hu">(Élő).(n)</desc>
+  </programme>
+  <programme start="20200419185000 +0200" stop="20200419192000 +0200" channel="RTL Klub">
+    <title lang="hu">Maradj haza magadnak!</title>
+  </programme>
+  <programme start="20200419192000 +0200" stop="20200419194500 +0200" channel="RTL Klub">
+    <title lang="hu">Segítség! Itthon vagyok!</title>
+  </programme>
+  <programme start="20200419194500 +0200" stop="20200419220500 +0200" channel="RTL Klub">
+    <title lang="hu">A hihetetlen család</title>
+  </programme>
+  <programme start="20200419220500 +0200" stop="20200420000000 +0200" channel="RTL Klub">
+    <title lang="hu">A specialista</title>
+  </programme>
+  <programme start="20200419010000 +0200" stop="20200419024500 +0200" channel="TV2">
+    <title lang="hu">A ferde ház</title>
+  </programme>
+  <programme start="20200419024500 +0200" stop="20200419032500 +0200" channel="TV2">
+    <title lang="hu">Elrabolva</title>
+  </programme>
+  <programme start="20200419032500 +0200" stop="20200419040500 +0200" channel="TV2">
+    <title lang="hu">Elrabolva</title>
+  </programme>
+  <programme start="20200419040500 +0200" stop="20200419045000 +0200" channel="TV2">
+    <title lang="hu">Az utolsó zsaru</title>
+    <desc lang="hu">(Ismétlés).(n)</desc>
+  </programme>
+  <programme start="20200419045000 +0200" stop="20200419051000 +0200" channel="TV2">
+    <title lang="hu">Egy rém rendes család</title>
+    <desc lang="hu">(Ismétlés).(n)</desc>
+  </programme>
+  <programme start="20200419051000 +0200" stop="20200419053500 +0200" channel="TV2">
+    <title lang="hu">Egy rém rendes család</title>
+  </programme>
+  <programme start="20200419053500 +0200" stop="20200419060000 +0200" channel="TV2">
+    <title lang="hu">Egy rém rendes család</title>
+  </programme>
+  <programme start="20200419060000 +0200" stop="20200419100500 +0200" channel="TV2">
+    <title lang="hu">TV2 animáció</title>
+  </programme>
+  <programme start="20200419100500 +0200" stop="20200419104000 +0200" channel="TV2">
+    <title lang="hu">EB TV</title>
+  </programme>
+  <programme start="20200419104000 +0200" stop="20200419111000 +0200" channel="TV2">
+    <title lang="hu">Tűsarok</title>
+    <desc lang="hu">(Ismétlés).(n)</desc>
+  </programme>
+  <programme start="20200419111000 +0200" stop="20200419114500 +0200" channel="TV2">
+    <title lang="hu">Több mint TestŐr</title>
+  </programme>
+  <programme start="20200419114500 +0200" stop="20200419121500 +0200" channel="TV2">
+    <title lang="hu">Super Car</title>
+  </programme>
+  <programme start="20200419121500 +0200" stop="20200419125000 +0200" channel="TV2">
+    <title lang="hu">Életmódi</title>
+  </programme>
+  <programme start="20200419125000 +0200" stop="20200419132000 +0200" channel="TV2">
+    <title lang="hu">Hungarikumokkal a világ körül</title>
+    <desc lang="hu">(Ismétlés).(n)</desc>
+  </programme>
+  <programme start="20200419132000 +0200" stop="20200419135500 +0200" channel="TV2">
+    <title lang="hu">Street Racers - Formula E magazin</title>
+  </programme>
+  <programme start="20200419135500 +0200" stop="20200419155500 +0200" channel="TV2">
+    <title lang="hu">Nagydumás kiscsajok</title>
+  </programme>
+  <programme start="20200419155500 +0200" stop="20200419180000 +0200" channel="TV2">
+    <title lang="hu">Az elvarázsolt dollár</title>
+  </programme>
+  <programme start="20200419180000 +0200" stop="20200419185000 +0200" channel="TV2">
+    <title lang="hu">Tények</title>
+  </programme>
+  <programme start="20200419185000 +0200" stop="20200419222500 +0200" channel="TV2">
+    <title lang="hu">Neked énekelek</title>
+  </programme>
+  <programme start="20200419222500 +0200" stop="20200420004500 +0200" channel="TV2">
+    <title lang="hu">Valami Amerika 3</title>
+  </programme>
+</tv>
