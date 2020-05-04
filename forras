@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, m1 
+#EXTINF:-1, M1 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3608
 #EXTINF:-1, m2 / Petofi
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/3609
@@ -15,7 +15,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14558
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6834
 #EXTINF:-1 , RTL Klub
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22431
-#EXTINF:-1 , AMC HU
+#EXTINF:-1 , AMC 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22287
 #EXTINF:-1 , AXN CE
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14588
@@ -41,9 +41,9 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/20553
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14579
 #EXTINF:-1, HBO HU 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/7075
-#EXTINF:-1, HBO2
+#EXTINF:-1, HBO 2
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/23792
-#EXTINF:-1, HBO3
+#EXTINF:-1, HBO 3
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14894
 #EXTINF:-1, Cinemax 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/33662
@@ -145,7 +145,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6825
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6824
 #EXTINF:-1 , DIGI Sport 3
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/6821
-#EXTINF:-1 , Spíler TV
+#EXTINF:-1 , Spíler TV 
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/14560
 #EXTINF:-1 , Spíler2 TV
 http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/22438
