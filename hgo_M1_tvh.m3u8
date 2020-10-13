@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="858598439245" tvg-chno="2" tvg-name="M1 HD" tvg-logo="https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_85_c_4358a60096362522a82f67eb6540c361.png?w=110&h=150&mode=box" group-title="TV" radio="false",M1 HD
+plugin://plugin.video.horizongo/?_=play_video&type=channel&id=858598439245&_l=.pvr
