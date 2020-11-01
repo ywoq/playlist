@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:0,202
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1, TV2
 http://152.66.115.226:33390/bysid/202
