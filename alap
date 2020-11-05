@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, m1
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, m2 / Petőfi 
+#EXTINF:-1, m2 / Petőfi TV
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1, m3
 https://stream.radioszerver.com:443/m3/0AjMxATMwEjM.m3u8
