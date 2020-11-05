@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1, m1
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, m2 / Petofi 
+#EXTINF:-1, m2 / Petőfi 
 http://152.66.115.226:33390/bysid/200
+#EXTINF:-1, m3
+https://stream.radioszerver.com:443/m3/0AjMxATMwEjM.m3u8
 #EXTINF:-1, M4 Sport
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1, M5
@@ -18,23 +20,30 @@ http://152.66.115.226:33390/bysid/203
 #EXTINF:-1, AMC
 https://streaming.mytvback.com:443/channel514/stream.m3u8
 #EXTINF:-1, Mozi+
-http://stream3.radioszerver.com:2082/moziplusz
+http://stream5186.radioszerver.com:2082/moziplusz
 #EXTINF:-1, Film Now
 http://193.33.39.106:8790
 #EXTINF:-1, Paramount Channel
-http://stream3.radioszerver.com:2082/paramount
+http://stream5186.radioszerver.com:2082/paramount
 #EXTINF:-1, AXN
-https://c402-node61-cdn.connectmedia.hu/61016/8288bd687c0183c3eb5ab631c40af74b/5f981979/index.m3u8
+http://stream5186.radioszerver.com:2082/axn
 #EXTINF:-1, Viasat3
-http://stream3.radioszerver.com:2082/viasat3
+http://rstr0.teamnetwork.co:80/stream085/stream.m3u8
 #EXTINF:-1, Viasat6
-http://stream3.radioszerver.com:2082/viasat6
+http://rstr0.teamnetwork.co:80/stream086/stream.m3u8
 #EXTINF:-1, Cool
 http://193.33.39.106:8788
 #EXTINF:-1, Film+
 http://193.33.39.106:8787
+#EXTINF:-1, Moziverzum
+http://stream5186.radioszerver.com:2082/moziverzum
 #EXTINF:-1, Digi Sport 1
 http://193.33.39.106:8781
+http://rstr0.teamnetwork.co:80/stream127/stream.m3u8
+#EXTINF:-1, Digi Sport 2
+http://rstr0.teamnetwork.co:80/stream127/stream.m3u8
+#EXTINF:-1, Digi Sport 3
+http://rstr0.teamnetwork.co:80/stream129/stream.m3u8
 #EXTINF:-1, RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1, RTL II
@@ -42,41 +51,60 @@ https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1, RTL+
 https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1, TV4
-http://stream3.radioszerver.com:2082/tv4
+http://stream5186.radioszerver.com:2082/tv4
 #EXTINF:-1, Prime
-http://stream3.radioszerver.com:2082/prime
+http://stream5186.radioszerver.com:2082/prime
+#EXTINF:-1, Fem3
+https://streaming.mytvback.com:443/stream/5_z0yqAPt8sHxwLCi3GQNg/1604629691/channel016/stream.m3u8
 #EXTINF:-1, National Geographic
-http://stream3.radioszerver.com:2082/natgeo
+http://stream5186.radioszerver.com:2082/natgeo
 #EXTINF:-1, National Geographic Wild HD
-http://stream3.radioszerver.com:2082/natgeowild
+http://stream5186.radioszerver.com:2082/natgeowild
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
-#EXTINF:-1, Life tv
-https://streaming.mytvback.com:443/stream/f1kYpH7yIO48wnyouPEW4A/1603830484/channel043/stream.m3u8
+#EXTINF:-1, LifeTv
+https://streaming.mytvback.com:443/stream/6PAviuNgVz4tQzATD-4AMg/1604629703/channel043/stream.m3u8
 #EXTINF:-1, ATV
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Pesti TV
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Hír TV
-https://stream.radioszerver.com:443/hirtv/0AjMxkDNxcjM.m3u8
+https://stream.radioszerver.com:443/hirtv/0AjMxATM5ETN.m3u8
 #EXTINF:-1, TV2 Comedy
-http://stream3.radioszerver.com:2082/tv2comedy
+http://stream5186.radioszerver.com:2082/tv2comedy
 #EXTINF:-1, FIX TV 
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1, Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, Jocky tv
-http://stream3.radioszerver.com:2082/jocky
+http://stream5186.radioszerver.com:2082/jocky
 #EXTINF:-1, Sorozat+
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1, TV2 Séf
-http://stream3.radioszerver.com:2082/tv2sef
+http://stream5186.radioszerver.com:2082/tv2sef
+#EXTINF:-1, Fit HD
+https://c201-node61-cdn.connectmedia.hu/61048/b8bea8e87828390b17141c8c1be9c811/5f996aec/index.m3u8
+#EXTINF:-1, Esportguru
+https://c402-node62-cdn.connectmedia.hu/33001/18f2401899c849f9a766dc987f5ff836/5f996b58/ch4.m3u8
 #EXTINF:-1, H!T MUSIC Channel
 http://hitmusic.hu:80/hitmusic.m3u8
-#EXTINF:-1, Music 1
+#EXTINF:-1, Music Channel
 https://1music.hu:443/1music.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
 https://streaming.mytvback.com:443/stream/uj7oYD14_Qr48ksm6Ynm_A/1603837681/channel049/stream.m3u8
-
+#EXTINF:-1, Dikh TV
+http://152.66.115.226:33390/bysid/205
+#EXTINF:-1, Gyöngyösi Tv
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1, Erdély Tv
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1, Bonum TV
+https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
+#EXTINF:-1, Pax
+https://c202-node62-cdn.connectmedia.hu/61025/f1548d0006190f4ecd3db3a5f29b4682/5f996aab/index.m3u8
+#EXTINF:-1, Apostol
+http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
+#EXTINF:-1, Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
