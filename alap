@@ -39,7 +39,6 @@ http://193.33.39.106:8787
 http://stream5186.radioszerver.com:2082/moziverzum
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Digi Sport 1
 http://193.33.39.106:8781
-http://rstr0.teamnetwork.co:80/stream127/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/822.jpg", Digi Sport 2
 http://rstr0.teamnetwork.co:80/stream127/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/876.jpg", Digi Sport 3
