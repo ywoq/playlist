@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/708.jpg", m1
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petőfi TV
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petőfi 
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1, tvg-logo="", m3
 https://stream.radioszerver.com:443/m3/0AjMxATMwEjM.m3u8
