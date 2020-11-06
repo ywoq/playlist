@@ -71,7 +71,7 @@ http://152.66.115.226:33390/bysid/206
 https://stream.radioszerver.com:443/hirtv/0AjMxATM5ETN.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", TV2 Comedy
 http://stream5186.radioszerver.com:2082/tv2comedy
-#EXTINF:-1, tvg-logo="", FIX HD 
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/970.jpg", FIX HD 
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://152.66.115.226:33390/bysid/204
@@ -81,7 +81,7 @@ http://stream5186.radioszerver.com:2082/jocky
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV2 Séf
 http://stream5186.radioszerver.com:2082/tv2sef
-#EXTINF:-1, tvg-logo="", FitHD
+#EXTINF:-1, tvg-logo=https://media.port.hu/images/001/236/100x60/868.jpg"", FitHD
 https://c201-node61-cdn.connectmedia.hu/61048/b8bea8e87828390b17141c8c1be9c811/5f996aec/index.m3u8
 #EXTINF:-1, tvg-logo="", Esportguru
 https://c402-node62-cdn.connectmedia.hu/33001/18f2401899c849f9a766dc987f5ff836/5f996b58/ch4.m3u8
@@ -89,9 +89,9 @@ https://c402-node62-cdn.connectmedia.hu/33001/18f2401899c849f9a766dc987f5ff836/5
 http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/830.jpg", Music Channel
 https://1music.hu:443/1music.m3u8
-#EXTINF:-1, tvg-logo="", Muzsika TV
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/804.jpg", Muzsika TV
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
-#EXTINF:-1,tvg-logo="", Zenebutik
+#EXTINF:-1,tvg-logo="https://media.port.hu/images/001/236/100x60/888.jpg", Zenebutik
 https://streaming.mytvback.com:443/stream/zq7ByZOVT5fbjedbtamoDA/1604687296/channel049/stream.m3u8
 #EXTINF:-1, tvg-logo="", Dikh TV
 http://152.66.115.226:33390/bysid/205
