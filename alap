@@ -53,7 +53,7 @@ https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
 http://stream5186.radioszerver.com:2082/tv4
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 http://stream5186.radioszerver.com:2082/prime
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/840.jpg", Super TV2
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/840.jpg", SuperTV2
 http://rstr0.teamnetwork.co:80/stream079/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
 https://streaming.mytvback.com:443/stream/DP7Ifq9J6fkJak5v2k3MqA/1604762891/channel016/stream.m3u8
