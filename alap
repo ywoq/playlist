@@ -79,6 +79,8 @@ http://stream5186.radioszerver.com:2082/tv2comedy
 http://rstr0.teamnetwork.co:80/stream095/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/970.jpg", FIX (HD) 
 rtmp://video.fixhd.tv:1935/fix/hd.stream
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", Boomerang
+http://rstr0.teamnetwork.co:80/stream135/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/986.jpg", Jocky tv
