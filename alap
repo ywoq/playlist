@@ -63,6 +63,8 @@ http://stream5186.radioszerver.com:2082/natgeo
 http://stream5186.radioszerver.com:2082/natgeowild
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum Home
 http://152.66.115.226:33390/bysid/207
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/760.jpg", Fishing & Hunting
+http://rstr0.teamnetwork.co:80/stream134/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/796.jpg", LifeTv
 https://streaming.mytvback.com:443/stream/6PAviuNgVz4tQzATD-4AMg/1604629703/channel043/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/263/100x60/404.jpg", ATV
