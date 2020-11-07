@@ -54,7 +54,7 @@ http://stream5186.radioszerver.com:2082/tv4
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 http://stream5186.radioszerver.com:2082/prime
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
-https://streaming.mytvback.com:443/stream/5_z0yqAPt8sHxwLCi3GQNg/1604629691/channel016/stream.m3u8
+https://streaming.mytvback.com:443/stream/DP7Ifq9J6fkJak5v2k3MqA/1604762891/channel016/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/726.jpg", National Geographic
 http://stream5186.radioszerver.com:2082/natgeo
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/702.jpg", National Geographic Wild HD
