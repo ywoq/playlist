@@ -73,6 +73,8 @@ http://152.66.115.226:33390/bysid/206
 https://stream.radioszerver.com:443/hirtv/00AMyEDMxgzN.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", TV2 Comedy
 http://stream5186.radioszerver.com:2082/tv2comedy
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/976.jpg", STORY4
+http://rstr0.teamnetwork.co:80/stream095/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/970.jpg", FIX (HD) 
 rtmp://video.fixhd.tv:1935/fix/hd.stream
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
