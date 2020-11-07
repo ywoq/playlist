@@ -89,10 +89,6 @@ http://stream5186.radioszerver.com:2082/jocky
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV2 Séf
 http://stream5186.radioszerver.com:2082/tv2sef
-#EXTINF:-1, tvg-logo=https://media.port.hu/images/001/236/100x60/868.jpg"", FitHD
-https://c201-node61-cdn.connectmedia.hu/61048/b8bea8e87828390b17141c8c1be9c811/5f996aec/index.m3u8
-#EXTINF:-1, tvg-logo="", Esportguru
-https://c402-node62-cdn.connectmedia.hu/33001/18f2401899c849f9a766dc987f5ff836/5f996b58/ch4.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/854.jpg", H!T MUSIC Channel
 http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/830.jpg", Music Channel
