@@ -20,11 +20,11 @@ http://152.66.115.226:33390/bysid/203
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/724.jpg", AMC
 https://streaming.mytvback.com:443/channel514/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/818.jpg", Mozi+
-http://stream5186.radioszerver.com:2082/moziplusz
+https://streaming.mytvback.com:443/stream/5S4NkrYjgL3gVfZvd9zuqQ/1608391343/channel020/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/980.jpg", Film Now
 http://193.33.39.106:8790
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/856.jpg", Paramount Channel
-http://stream5186.radioszerver.com:2082/paramount
+https://streaming.mytvback.com:443/stream/N0z8_JyAGVu6AXXmk19mWg/1608391353/channel023/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/920.jpg", AXN
 http://stream5186.radioszerver.com:2082/axn
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/792.jpg", Viasat3
@@ -36,7 +36,7 @@ http://193.33.39.106:8788
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/906.jpg", Film+
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/696.jpg", Moziverzum
-http://stream5186.radioszerver.com:2082/moziverzum
+https://streaming.mytvback.com:443/stream/t7jJ82YJenN8niPzI8BGTA/1608391367/channel030/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Digi Sport 1
 http://193.33.39.106:8781
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/822.jpg", Digi Sport 2
@@ -52,43 +52,51 @@ https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/910.jpg", TV4
 http://stream5186.radioszerver.com:2082/tv4
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
-http://stream5186.radioszerver.com:2082/prime
+https://streaming.mytvback.com:443/stream/8MDQ0Fbt2i06nFAy3w3DFg/1608391371/channel019/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/840.jpg", SuperTV2
-http://rstr0.teamnetwork.co:80/stream079/stream.m3u8
+https://streaming.mytvback.com:443/stream/A7IkXzAyQeBTqMAgQN93wg/1608391324/channel022/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
 https://streaming.mytvback.com:443/stream/VHcYBz87DAjbUfCBfNv9gw/1608395301/channel016/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/726.jpg", National Geographic
-http://stream5186.radioszerver.com:2082/natgeo
+https://streaming.mytvback.com:443/stream/XhhCij5hvKqGaCbetd6ZHA/1608391336/channel028/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/702.jpg", National Geographic Wild HD
-http://stream5186.radioszerver.com:2082/natgeowild
+https://streaming.mytvback.com:443/stream/CBP2WZO_YD-9Tz8gNuP5xA/1608391350/channel029/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/760.jpg", Fishing & Hunting
 http://rstr0.teamnetwork.co:80/stream134/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/796.jpg", LifeTv
-https://streaming.mytvback.com:443/stream/6PAviuNgVz4tQzATD-4AMg/1604629703/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/PhXfnWcSeleAXuw0hUiiVg/1608395290/channel043/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/263/100x60/404.jpg", ATV
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/265/100x60/406.jpg", Pesti TV
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/710.jpg", Hír TV
-https://stream.radioszerver.com:443/hirtv/00AMyEDMxgzN.m3u8
+https://stream.radioszerver.com:443/hirtv/wITMxEDMxkTM.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", TV2 Comedy
-http://stream5186.radioszerver.com:2082/tv2comedy
+https://streaming.mytvback.com:443/stream/tcceTvOWcTqwt4lj5aJ2Xg/1608391329/channel042/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", Comedy Central
+https://streaming.mytvback.com:443/stream/VcOXIGgBIvsHE6HSD45uFQ/1608391346/channel025/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/976.jpg", STORY4
 http://rstr0.teamnetwork.co:80/stream095/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/970.jpg", FIX (HD) 
 rtmp://video.fixhd.tv:1935/fix/hd.stream
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", TLC
+https://streaming.mytvback.com:443/stream/ru6-qj2vfpYTPIuBgh-3gQ/1608391339/channel056/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", Boomerang
 http://rstr0.teamnetwork.co:80/stream135/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", TV2 Kids
+https://streaming.mytvback.com:443/stream/LVWCMbi_nFcNFGsm6g8QyQ/1608391355/channel017/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/986.jpg", Jocky tv
-http://stream5186.radioszerver.com:2082/jocky
+https://streaming.mytvback.com:443/stream/r-KJr4MbC-OoUayFsokeNg/1608391357/channel073/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/766.jpg", Sorozat+
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV2 Séf
-http://stream5186.radioszerver.com:2082/tv2sef
+https://streaming.mytvback.com:443/stream/Fuf4TQG2kDEz_WuKtYEoBg/1608391364/channel041/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV Paprika
+https://streaming.mytvback.com:443/stream/OE-lB4Q1L6bZb7QV0DEAww/1608391331/channel034/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/854.jpg", H!T MUSIC Channel
 http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/830.jpg", Music Channel
