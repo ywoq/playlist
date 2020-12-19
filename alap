@@ -43,6 +43,14 @@ http://193.33.39.106:8781
 http://rstr0.teamnetwork.co:80/stream127/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/876.jpg", Digi Sport 3
 http://rstr0.teamnetwork.co:80/stream129/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport 1
+https://streaming.mytvback.com:443/stream/s1cnC_oW4_cir2D5mpjjvA/1608391341/channel032/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport 2
+https://streaming.mytvback.com:443/stream/haF_6AcdTs2PBPumI8HPug/1608391362/channel015/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler 1
+https://streaming.mytvback.com:443/stream/57ALmHr9Xuze6yYIKMCuVg/1608391334/channel053/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler 2
+https://streaming.mytvback.com:443/stream/rSC1aooi7m8IWZPjJG9bKw/1608391348/channel071/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/768.jpg", RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/238/100x60/672.jpg", RTL II
@@ -61,6 +69,8 @@ https://streaming.mytvback.com:443/stream/VHcYBz87DAjbUfCBfNv9gw/1608395301/chan
 https://streaming.mytvback.com:443/stream/XhhCij5hvKqGaCbetd6ZHA/1608391336/channel028/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/702.jpg", National Geographic Wild HD
 https://streaming.mytvback.com:443/stream/CBP2WZO_YD-9Tz8gNuP5xA/1608391350/channel029/stream.m3u8
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
+https://streaming.mytvback.com:443/stream/PnZflgtFjJ-kqpGuqJ-x7g/1608391369/channel033/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/760.jpg", Fishing & Hunting
