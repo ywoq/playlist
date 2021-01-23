@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,(#1)  - RTL Klub (HD)
+https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1,(#2)  - RTL Klub (SD)
+https://stream.y5.hu:443/stream/stream_rtlklub/hls0/stream.m3u8
+#EXTINF:-1,(#3) RTL Klub
+http://stream4189.radioszerver.com:2082/rtlklub-g3tgg.ts
+#EXTINF:-1,(#4) 
+http://152.66.115.226:33390/bysid/203
