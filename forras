@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1, m1 
-
+http://152.66.115.226:33391/bysid/100
 #EXTINF:-1, m2 / Petofi
-
+https://streaming.mytvback.com:443/stream/uPp0EluSlWAzJ7u6SyZKFA/1617473474/channel002/stream.m3u8
 #EXTINF:-1, m3
 
 #EXTINF:-1 , M5 
 
 #EXTINF:-1 , Duna TV
-
+http://152.66.115.226:33391/bysid/102
 #EXTINF:-1 , Duna World 
-
+http://152.66.115.226:33391/bysid/103
 #EXTINF:-1 , TV2
-
+http://193.33.39.106:8782
 #EXTINF:-1 , RTL Klub
-
+http://193.33.39.106:8786
 #EXTINF:-1 , AMC HU
 
 #EXTINF:-1 , AXN CE
@@ -24,9 +24,9 @@
 #EXTINF:-1 , AXN White
 
 #EXTINF:-1 , Cool
-
+http://193.33.39.106:8788
 #EXTINF:-1 , Film Now
-
+http://193.33.39.106:8790
 #EXTINF:-1 , FilmCafe
 
 #EXTINF:-1 , Film Mania
@@ -56,13 +56,13 @@
 #EXTINF:-1 , Prime
 
 #EXTINF:-1 , Film+
-
+https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1 , RTL+
-
+https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1 , RTL Gold
-
+https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1 , RTL2
-
+https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1 , Sony Max
 
 #EXTINF:-1 , Viasat3
@@ -102,7 +102,9 @@
 #EXTINF:-1 , Investigation Discovery
 
 #EXTINF:-1 , FEM3
-
+https://streaming.mytvback.com:443/stream/QfcnHOcNxeTciR6QN9KPWQ/1617473478/channel016/stream.m3u8
+#EXTINF:-1 , LifeTv
+https://streaming.mytvback.com:443/stream/qIReXX92NP-epQVRVGyKNg/1617473486/channel043/stream.m3u8
 #EXTINF:-1 , Chili TV 
 
 #EXTINF:-1 , FIX 
@@ -114,9 +116,9 @@
 #EXTINF:-1 , HirTV
 
 #EXTINF:-1 , Sorozat+
-http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12798
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1 , ATV
-
+http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 , Euronews
 
 #EXTINF:-1 , Comedy Central
@@ -126,7 +128,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12798
 #EXTINF:-1 , TV2 Commedy
 
 #EXTINF:-1 , Sport1
-
+http://bazarhd.online:80/307234110115/307234110115/82614
 #EXTINF:-1 , Sport2
 
 #EXTINF:-1 , Eurosport 1
@@ -134,7 +136,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12798
 #EXTINF:-1 , Eurosport 2
 
 #EXTINF:-1 , DIGI Sport 1
-
+http://193.33.39.106:8781
 #EXTINF:-1 , DIGI Sport 2
 
 #EXTINF:-1 , DIGI Sport 3
@@ -144,7 +146,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12798
 #EXTINF:-1 , Spíler2 TV
 
 #EXTINF:-1 , M4 Sport
-
+http://152.66.115.226:33391/bysid/101
 #EXTINF:-1 , Discovery Turbo Xtra (DTX)
 
 #EXTINF:-1 , Extreme Sports
@@ -168,7 +170,7 @@ http://livego.club:8080/Rqzdr4drhy/cusbxBurhf/12798
 #EXTINF:-1 , Music Channel
 
 #EXTINF:-1 , H!T MUSIC Channel
-
+http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1 , 1MUSIC Channel Hungary
 
 #EXTINF:-1 , KPOP
