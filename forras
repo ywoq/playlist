@@ -34,7 +34,7 @@ http://bazarhd.online:80/307234110115/307234110115/82628
 
 #EXTINF:-1,HU: Comedy Central
 
-#EXTINF:-1,HU: Cool
+#EXTINF:-1, Cool
 http://bazarhd.online:80/307234110115/307234110115/82646
 #EXTINF:-1,HU: Ozone Network
 
@@ -42,7 +42,7 @@ http://bazarhd.online:80/307234110115/307234110115/82646
 
 #EXTINF:-1,HU: DIGI Film
 
-#EXTINF:-1,HU: Digi Life
+#EXTINF:-1, DIGI Life
 http://bazarhd.online:80/307234110115/307234110115/82603
 #EXTINF:-1,HU: Digi Sport 1 HD
 
@@ -75,7 +75,7 @@ http://bazarhd.online:80/307234110115/307234110115/82626
 #EXTINF:-1,HU: Eurosport 2
 
 #EXTINF:-1,HU: Extreme Sports
-#EXTINF:-1,HU: Epicdrama
+#EXTINF:-1, Epic Drama
 http://bazarhd.online:80/307234110115/307234110115/82643
 
 #EXTINF:-1,HU: FEM 3
