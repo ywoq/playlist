@@ -1,178 +1,201 @@
-#EXTM3U
-#EXTINF:-1, m1 
-http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, m2 / Petofi
-https://streaming.mytvback.com:443/stream/uPp0EluSlWAzJ7u6SyZKFA/1617473474/channel002/stream.m3u8
-#EXTINF:-1, m3
+#EXTINF:-1,==== Hungary =====
 
-#EXTINF:-1 , M5 
+#EXTINF:-1,HU: Sorozat+
 
-#EXTINF:-1 , Duna TV
-http://152.66.115.226:33391/bysid/102
-#EXTINF:-1 , Duna World 
-http://152.66.115.226:33391/bysid/103
-#EXTINF:-1 , TV2
-http://193.33.39.106:8782
-#EXTINF:-1 , RTL Klub
-http://193.33.39.106:8786
-#EXTINF:-1 , AMC HU
+#EXTINF:-1,HU: 2 Super
 
-#EXTINF:-1 , AXN CE
+#EXTINF:-1,HU: ATV
 
-#EXTINF:-1 , AXN Black
+#EXTINF:-1,HU: AMC
 
-#EXTINF:-1 , AXN White
+#EXTINF:-1,HU: Animal Planet
 
-#EXTINF:-1 , Cool
-http://193.33.39.106:8788
-#EXTINF:-1 , Film Now
-http://193.33.39.106:8790
-#EXTINF:-1 , FilmCafe
+#EXTINF:-1,HU: AXN
 
-#EXTINF:-1 , Film Mania
+#EXTINF:-1,HU: AXN Black
 
-#EXTINF:-1 , FilmBox Premium
+#EXTINF:-1,HU: AXN White
 
-#EXTINF:-1 , FilmBox Extra HD
+#EXTINF:-1,HU: BBC Earth HD
 
-#EXTINF:-1 , Galaxy
+#EXTINF:-1,HU: Boomerang
+http://bazarhd.online:80/307234110115/307234110115/82630
+#EXTINF:-1,HU: Minimax / C8
 
-#EXTINF:-1 , HBO HU
+#EXTINF:-1,HU: Cartoon Network
+http://bazarhd.online:80/307234110115/307234110115/82628
+#EXTINF:-1,HU: CBS Reality
 
-#EXTINF:-1 , HBO2
+#EXTINF:-1,HU: Chili TV
 
-#EXTINF:-1 , HBO3
+#EXTINF:-1,HU: Cinemax
 
-#EXTINF:-1 , Cinemax 
+#EXTINF:-1,HU: Cinemax 2
 
-#EXTINF:-1 , Cinemax 2 
+#EXTINF:-1,HU: Comedy Central
 
-#EXTINF:-1 , Mozi+ 
+#EXTINF:-1,HU: Cool
+http://bazarhd.online:80/307234110115/307234110115/82646
+#EXTINF:-1,HU: Ozone Network
 
-#EXTINF:-1 , Moziverzum
+#EXTINF:-1,HU: Digi Animal World
 
-#EXTINF:-1 , Paramount Channel
+#EXTINF:-1,HU: DIGI Film
 
-#EXTINF:-1 , Prime
+#EXTINF:-1,HU: Digi Life
+http://bazarhd.online:80/307234110115/307234110115/82603
+#EXTINF:-1,HU: Digi Sport 1 HD
 
-#EXTINF:-1 , Film+
-https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
-#EXTINF:-1 , RTL+
-https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
-#EXTINF:-1 , RTL Gold
-https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
-#EXTINF:-1 , RTL2
-https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 , Sony Max
+#EXTINF:-1,HU: Digi Sport 2 HD
 
-#EXTINF:-1 , Viasat3
+#EXTINF:-1,HU: Digi Sport 3 HD
 
-#EXTINF:-1 , Viasat6
+#EXTINF:-1,HU: DIGI World
 
-#EXTINF:-1 , Spektrum
+#EXTINF:-1,HU: Discovery Channel
 
-#EXTINF:-1 , History
+#EXTINF:-1,HU: Discovery ID
 
-#EXTINF:-1 , Viasat History
+#EXTINF:-1,HU: Discovery 
+http://bazarhd.online:80/307234110115/307234110115/82602
+#EXTINF:-1,HU: Disney Channel
+http://bazarhd.online:80/307234110115/307234110115/82627
+#EXTINF:-1,HU: DTX
 
-#EXTINF:-1 , Discovery Channel
+#EXTINF:-1,HU: Duck TV
+http://bazarhd.online:80/307234110115/307234110115/82626
+#EXTINF:-1,HU: Duna HD
 
-#EXTINF:-1 , Discovery Science
+#EXTINF:-1,HU: Duna World HD
 
-#EXTINF:-1 ,  National Geographic 
+#EXTINF:-1,HU: Echo TV
 
-#EXTINF:-1 , National Geographic Wild
+#EXTINF:-1,HU: Eurosport 1
 
-#EXTINF:-1 , OzoneTv
+#EXTINF:-1,HU: Eurosport 2
 
-#EXTINF:-1 , DIGI Life
+#EXTINF:-1,HU: Extreme Sports
+#EXTINF:-1,HU: Epicdrama
+http://bazarhd.online:80/307234110115/307234110115/82643
 
-#EXTINF:-1 , DIGI World
+#EXTINF:-1,HU: FEM 3
 
-#EXTINF:-1 , DIGI Animal World
+#EXTINF:-1,HU: Film+
+http://bazarhd.online:80/307234110115/307234110115/82637
+http://bazarhd.online:80/307234110115/307234110115/82638
+#EXTINF:-1,HU: Filmbox Extra
+http://bazarhd.online:80/307234110115/307234110115/82632
+#EXTINF:-1,HU: FilmBox Family
 
-#EXTINF:-1 , Animal Planet
+#EXTINF:-1,HU: FilmBox PLUS
 
-#EXTINF:-1 , Travel 
+#EXTINF:-1,HU: FilmBox Premium
 
-#EXTINF:-1 , Spektrum Home
+#EXTINF:-1,HU: FilmCafe
+http://bazarhd.online:80/307234110115/307234110115/82639
+#EXTINF:-1,HU: Filmmania
+http://bazarhd.online:80/307234110115/307234110115/82641
+#EXTINF:-1,HU: FIX HD
 
-#EXTINF:-1 , CBS Reality
+#EXTINF:-1,HU: Food Network
 
-#EXTINF:-1 , Investigation Discovery
+#EXTINF:-1,HU: Galaxy
+http://bazarhd.online:80/307234110115/307234110115/82645
+#EXTINF:-1,HU: Film4
+http://bazarhd.online:80/307234110115/307234110115/82642
+#EXTINF:-1,HU: H!T MUSIC Channel
 
-#EXTINF:-1 , FEM3
-https://streaming.mytvback.com:443/stream/QfcnHOcNxeTciR6QN9KPWQ/1617473478/channel016/stream.m3u8
-#EXTINF:-1 , LifeTv
-https://streaming.mytvback.com:443/stream/qIReXX92NP-epQVRVGyKNg/1617473486/channel043/stream.m3u8
-#EXTINF:-1 , Chili TV 
+#EXTINF:-1,HU: HBO
 
-#EXTINF:-1 , FIX 
+#EXTINF:-1,HU: HBO 2
 
-#EXTINF:-1 , Echo TV
+#EXTINF:-1,HU: HBO 3
 
-#EXTINF:-1 , Heti TV
+#EXTINF:-1,HU: Heti TV
 
-#EXTINF:-1 , HirTV
+#EXTINF:-1,HU: Hir TV
 
-#EXTINF:-1 , Sorozat+
-https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
-#EXTINF:-1 , ATV
-http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
-#EXTINF:-1 , Euronews
+#EXTINF:-1,HU: HISTORY
 
-#EXTINF:-1 , Comedy Central
+#EXTINF:-1,HU: Humor
 
-#EXTINF:-1 , Food Network
+#EXTINF:-1,HU: Kiwi TV
 
-#EXTINF:-1 , TV2 Commedy
+#EXTINF:-1,HU: M1 Hungary
+http://bazarhd.online:80/307234110115/307234110115/82649
+#EXTINF:-1,HU: M2 Hungary
 
-#EXTINF:-1 , Sport1
-http://bazarhd.online:80/307234110115/307234110115/82614
-#EXTINF:-1 , Sport2
+#EXTINF:-1,HU: M3 HD
 
-#EXTINF:-1 , Eurosport 1
+#EXTINF:-1,HU: M4 Sport HD
+http://bazarhd.online:80/307234110115/307234110115/82610
+#EXTINF:-1,HU: M5 HD
 
-#EXTINF:-1 , Eurosport 2
+#EXTINF:-1,HU: Megamax
 
-#EXTINF:-1 , DIGI Sport 1
-http://193.33.39.106:8781
-#EXTINF:-1 , DIGI Sport 2
+#EXTINF:-1,HU: Miniamax
+http://bazarhd.online:80/307234110115/307234110115/82625
+#EXTINF:-1,HU: Mozi
 
-#EXTINF:-1 , DIGI Sport 3
+#EXTINF:-1,HU: MTV
 
-#EXTINF:-1 , Spiler1 TV 
+#EXTINF:-1,HU: Music Channel
 
-#EXTINF:-1 , Spíler2 TV
+#EXTINF:-1,HU: Moziverzum
 
-#EXTINF:-1 , M4 Sport
-http://152.66.115.226:33391/bysid/101
-#EXTINF:-1 , Discovery Turbo Xtra (DTX)
+#EXTINF:-1,HU: Nat Geo Wild
 
-#EXTINF:-1 , Extreme Sports
+#EXTINF:-1,HU: National Geographic
 
-#EXTINF:-1 , Fishing and Hunting
+#EXTINF:-1,HU: Nickelodeon
+http://bazarhd.online:80/307234110115/307234110115/82624
+#EXTINF:-1,HU: Paprika TV
 
-#EXTINF:-1 , Nickelodeon HU
+#EXTINF:-1,HU: Paramount Channel
 
-#EXTINF:-1 , Disney Channel
+#EXTINF:-1,HU: Prime
 
-#EXTINF:-1 , Boomerang
+#EXTINF:-1,HU: RTL
 
-#EXTINF:-1 , Minimax
+#EXTINF:-1,HU: RTL+
 
-#EXTINF:-1 , Nick Jr. HU
+#EXTINF:-1,HU: RTL II
 
-#EXTINF:-1 , TV2 Kids
+#EXTINF:-1,HU: RTL Klub HD
 
-#EXTINF:-1 , MTV 
+#EXTINF:-1,HU: RTL Gold
 
-#EXTINF:-1 , Music Channel
+#EXTINF:-1,HU: RTL Spike
 
-#EXTINF:-1 , H!T MUSIC Channel
-http://hitmusic.hu:80/hitmusic.m3u8
-#EXTINF:-1 , 1MUSIC Channel Hungary
-http://1music.hu/1music.m3u8
+#EXTINF:-1,HU: Szolnok TV HD
+
+#EXTINF:-1,HU: Spektrum
+
+#EXTINF:-1,HU: Spektrum Home
+
+#EXTINF:-1,HU: Sport 1
+
+#EXTINF:-1,HU: Sport 2
+
+#EXTINF:-1,HU: Sony
+http://bazarhd.online:80/307234110115/307234110115/82632
+#EXTINF:-1,HU: Sony Max
+http://bazarhd.online:80/307234110115/307234110115/82633
+#EXTINF:-1,HU: SuperTV2
+
+#EXTINF:-1,HU: The Fishing & Hunting HD
+
+#EXTINF:-1,HU: Travel Channel
+
+#EXTINF:-1,HU: TV2
+
+#EXTINF:-1,HU: Viasat 3
+
+#EXTINF:-1,HU: Viasat 6
+
+#EXTINF:-1,HU: Viasat History
+http://bazarhd.online:80/307234110115/307234110115/82590
+http://bazarhd.online:80/307234110115/307234110115/82592
 
 
 
