@@ -50,8 +50,6 @@ http://bazarhd.online:80/307234110115/307234110115/82620
 http://bazarhd.online:80/307234110115/307234110115/82619
 #EXTINF:-1, Digi Sport 3 HD
 http://bazarhd.online:80/307234110115/307234110115/82618
-#EXTINF:-1, DIGI World
-
 #EXTINF:-1, Discovery Science
 http://bazarhd.online:80/307234110115/307234110115/82598
 #EXTINF:-1, Discovery ID
@@ -65,9 +63,9 @@ http://bazarhd.online:80/307234110115/307234110115/82627
 #EXTINF:-1, Duck TV
 http://bazarhd.online:80/307234110115/307234110115/82626
 #EXTINF:-1,HU: Duna HD
-
+http://bazarhd.online:80/307234110115/307234110115/82705
 #EXTINF:-1, Duna World HD
-
+http://bazarhd.online:80/307234110115/307234110115/82704
 #EXTINF:-1, Echo TV
 
 #EXTINF:-1, Eurosport 1
@@ -77,9 +75,8 @@ http://bazarhd.online:80/307234110115/307234110115/82626
 #EXTINF:-1, Extreme Sports
 #EXTINF:-1, Epic Drama
 http://bazarhd.online:80/307234110115/307234110115/82643
-
 #EXTINF:-1,HU: FEM 3
-
+http://bazarhd.online:80/307234110115/307234110115/82670
 #EXTINF:-1, Film+
 http://bazarhd.online:80/307234110115/307234110115/82637
 http://bazarhd.online:80/307234110115/307234110115/82638
@@ -103,6 +100,8 @@ http://bazarhd.online:80/307234110115/307234110115/82641
 http://bazarhd.online:80/307234110115/307234110115/82645
 #EXTINF:-1, Film4
 http://bazarhd.online:80/307234110115/307234110115/82642
+#EXTINF:-1, FilmNow
+http://bazarhd.online:80/307234110115/307234110115/82655
 #EXTINF:-1,HU: H!T MUSIC Channel
 
 #EXTINF:-1, HBO
@@ -154,7 +153,7 @@ http://bazarhd.online:80/307234110115/307234110115/82624
 #EXTINF:-1, Paprika TV
 
 #EXTINF:-1, Paramount Channel
-
+http://bazarhd.online:80/307234110115/307234110115/82647
 #EXTINF:-1, Prime
 
 #EXTINF:-1, RTL
@@ -175,10 +174,10 @@ http://bazarhd.online:80/307234110115/307234110115/82721
 http://bazarhd.online:80/307234110115/307234110115/82719
 #EXTINF:-1,HU: Spektrum Home
 
-#EXTINF:-1,HU: Sport 1
-
-#EXTINF:-1,HU: Sport 2
-
+#EXTINF:-1,HU: Spiler 1
+http://bazarhd.online:80/307234110115/307234110115/82682
+#EXTINF:-1,HU: Spíler 2
+http://bazarhd.online:80/307234110115/307234110115/82681
 #EXTINF:-1, Sony
 http://bazarhd.online:80/307234110115/307234110115/82632
 #EXTINF:-1, Sony Max
