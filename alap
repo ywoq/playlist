@@ -22,11 +22,18 @@ https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/818.jpg", Mozi+
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/980.jpg", Film Now
+#EXTINF:-1, FilmCafe
+http://102.222.213.43:7000/play/a00e/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/856.jpg", Paramount Channel
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/920.jpg", AXN
-
+#EXTINF:-1, Filmbox Premium
+http://89.216.39.29:8002/
+#EXTINF:-1, Filmbox Family
+http://102.222.213.43:7000/play/a00a/index.m3u8
+#EXTINF:-1, Filmbox Stars
+http://102.222.213.43:7000/play/a00m/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/792.jpg", Viasat3
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/752.jpg", Viasat6
@@ -34,9 +41,9 @@ https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/944.jpg", Cool
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/906.jpg", Film+
-
+http://89.216.39.29:8006/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/696.jpg", Moziverzum
-
+http://102.222.213.43:7000/play/a01c/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Digi Sport 1
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/822.jpg", Digi Sport 2
@@ -62,11 +69,12 @@ https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
-
+#EXTINF:-1, Animal Planet
+http://89.216.39.29:8001/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/726.jpg", National Geographic
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/702.jpg", National Geographic Wild HD
-
+http://89.216.39.29:8004/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum Home
