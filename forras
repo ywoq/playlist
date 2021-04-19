@@ -9,7 +9,7 @@
 #EXTINF:-1, AMC
 
 #EXTINF:-1, Animal Planet
-
+http://89.216.39.29:8001/
 #EXTINF:-1, AXN
 
 #EXTINF:-1, AXN Black
@@ -33,7 +33,7 @@
 #EXTINF:-1, Cinemax 2
 
 #EXTINF:-1, Comedy Central
-
+http://89.216.39.29:8003/
 #EXTINF:-1, Cool
 
 #EXTINF:-1,HU: Ozone Network
@@ -79,8 +79,7 @@
 #EXTINF:-1,HU: FEM 3
 
 #EXTINF:-1, Film+
-
-
+http://89.216.39.29:8006/
 #EXTINF:-1, Filmbox Extra
 
 #EXTINF:-1, FilmBox Family
@@ -88,7 +87,7 @@
 #EXTINF:-1,HU: FilmBox PLUS
 
 #EXTINF:-1,HU: FilmBox Premium
-
+http://89.216.39.29:8002/
 #EXTINF:-1, FilmCafe
 
 #EXTINF:-1, Filmmania
@@ -146,13 +145,13 @@
 #EXTINF:-1, Mozi+
 
 #EXTINF:-1, Nat Geo Wild
-
+http://89.216.39.29:8004/
 #EXTINF:-1, National Geographic
 
 #EXTINF:-1, Nickelodeon
 
 #EXTINF:-1, Paprika TV
-
+http://89.216.39.29:8008/
 #EXTINF:-1, Paramount Channel
 
 #EXTINF:-1, Prime
@@ -160,9 +159,9 @@
 #EXTINF:-1, RTL
 
 #EXTINF:-1, RTL+
-
+http://89.216.39.29:8009/
 #EXTINF:-1, RTL II
-
+http://89.216.39.29:8010/
 #EXTINF:-1, RTL Klub HD
 
 #EXTINF:-1, RTL Gold
@@ -189,8 +188,8 @@
 
 #EXTINF:-1, Travel Channel
 
-#EXTINF:-1, TV2
-
+#EXTINF:-1, TV2 Comedy
+http://89.216.39.29:8005/
 #EXTINF:-1, Viasat 3
 
 #EXTINF:-1, Viasat 6
