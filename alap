@@ -2,21 +2,21 @@
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/708.jpg", m1
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petõfi TV 
-http://152.66.115.226:33390/bysid/200
+
 #EXTINF:-1, tvg-logo="https://ripost.hu/wp-content/uploads/2020/03/M3logoM3508x360.jpg", m3
-https://stream.radioszerver.com:443/m3/00AMyEDMxgzN.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/874.jpg", M4 Sport
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/886.jpg", M5
-http://152.66.115.226:33390/bysid/201
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/930.jpg", Duna Televízió
 http://152.66.115.226:33391/bysid/102
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/302.jpg", Duna World
 http://152.66.115.226:33391/bysid/103
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/882.jpg", TV2
-http://152.66.115.226:33390/bysid/202
+http://102.222.213.43:7000/play/a00h/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/698.jpg", RTL Klub
-http://152.66.115.226:33390/bysid/203
+https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/724.jpg", AMC
 https://streaming.mytvback.com:443/channel514/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/818.jpg", Mozi+
