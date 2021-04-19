@@ -82,50 +82,50 @@ http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/265/100x60/406.jpg", Pesti TV
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/710.jpg", Hír TV
-https://stream.radioszerver.com:443/hirtv/wITMxEDMxkTM.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", TV2 Comedy
-https://streaming.mytvback.com:443/stream/tcceTvOWcTqwt4lj5aJ2Xg/1608391329/channel042/stream.m3u8
+http://89.216.39.29:8005/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", Comedy Central
-https://streaming.mytvback.com:443/stream/VcOXIGgBIvsHE6HSD45uFQ/1608391346/channel025/stream.m3u8
+http://89.216.39.29:8003/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/976.jpg", STORY4
-http://rstr0.teamnetwork.co:80/stream095/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/970.jpg", FIX (HD) 
-rtmp://video.fixhd.tv:1935/fix/hd.stream
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", TLC
-https://streaming.mytvback.com:443/stream/ru6-qj2vfpYTPIuBgh-3gQ/1608391339/channel056/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", Boomerang
-http://rstr0.teamnetwork.co:80/stream135/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", TV2 Kids
-https://streaming.mytvback.com:443/stream/LVWCMbi_nFcNFGsm6g8QyQ/1608391355/channel017/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
-http://152.66.115.226:33390/bysid/204
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/986.jpg", Jocky tv
-https://streaming.mytvback.com:443/stream/r-KJr4MbC-OoUayFsokeNg/1608391357/channel073/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/766.jpg", Sorozat+
-https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV2 Séf
-https://streaming.mytvback.com:443/stream/Fuf4TQG2kDEz_WuKtYEoBg/1608391364/channel041/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV Paprika
-https://streaming.mytvback.com:443/stream/OE-lB4Q1L6bZb7QV0DEAww/1608391331/channel034/stream.m3u8
+http://89.216.39.29:8008/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/854.jpg", H!T MUSIC Channel
 http://hitmusic.hu:80/hitmusic.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/830.jpg", Music Channel
 https://1music.hu:443/1music.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/804.jpg", Muzsika TV
-https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
+
 #EXTINF:-1,tvg-logo="https://media.port.hu/images/001/236/100x60/888.jpg", Zenebutik
-https://streaming.mytvback.com:443/stream/3eeedB_2m2dN8LIniG7Igg/1604762900/channel049/stream.m3u8
+
 #EXTINF:-1, tvg-logo="", Dikh TV
-http://152.66.115.226:33390/bysid/205
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/864.jpg", Gyöngyösi Tv
-https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/808.jpg", Erdély Tv
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/862.jpg", Bonum TV
-https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/714.jpg", PAX Tv
-https://c202-node62-cdn.connectmedia.hu/61025/f1548d0006190f4ecd3db3a5f29b4682/5f996aab/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/242/100x60/020.jpg", Apostol TV
-http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="", Lóverseny közvetítés
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
