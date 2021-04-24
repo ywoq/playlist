@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/708.jpg", m1
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petõfi TV 
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petofi 
 http://102.222.213.43:7000/play/a016/index.m3u8
 #EXTINF:-1, tvg-logo="https://ripost.hu/wp-content/uploads/2020/03/M3logoM3508x360.jpg", m3
 
@@ -9,7 +9,7 @@ http://102.222.213.43:7000/play/a016/index.m3u8
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/886.jpg", M5
 
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/930.jpg", Duna Televízió
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/930.jpg", Duna TV
 http://152.66.115.226:33391/bysid/102
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/302.jpg", Duna World
 http://152.66.115.226:33391/bysid/103
@@ -52,13 +52,13 @@ http://193.33.39.106:8781/
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/876.jpg", Digi Sport 3
 
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport 1
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport1
 http://102.222.213.43:7000/play/a014/index.m3u8
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport 2
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport2
 http://102.222.213.43:7000/play/a00d/index.m3u8
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler 1
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spiler 1
 http://102.222.213.43:7000/play/a00r/index.m3u8
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler 2
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler2
 http://102.222.213.43:7000/play/a01b/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/768.jpg", RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
@@ -93,7 +93,7 @@ http://194.76.186.68:8000/play/a00l
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/265/100x60/406.jpg", Pesti TV
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/710.jpg", Hír TV
-
+http://102.222.213.43:7000/play/a012/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", TV2 Comedy
 http://89.216.39.29:8005/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", Comedy Central
