@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/708.jpg", m1
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petõfi TV 
-
+http://102.222.213.43:7000/play/a016/index.m3u8
 #EXTINF:-1, tvg-logo="https://ripost.hu/wp-content/uploads/2020/03/M3logoM3508x360.jpg", m3
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/874.jpg", M4 Sport
@@ -41,7 +41,7 @@ http://102.222.213.43:7000/play/a00m/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/752.jpg", Viasat6
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/944.jpg", Cool
-
+https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/906.jpg", Film+
 http://89.216.39.29:8006/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/696.jpg", Moziverzum
@@ -63,7 +63,7 @@ http://102.222.213.43:7000/play/a01c/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/768.jpg", RTL Gold
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/238/100x60/672.jpg", RTL II
-
+https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/764.jpg", RTL+
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/910.jpg", TV4
@@ -71,6 +71,7 @@ http://102.222.213.43:7000/play/a01c/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
+https://streaming.mytvback.com:443/stream/263n9jXnR6sXj_tE9XPWZg/1619277079/channel016/stream.m3u8
 #EXTINF:-1, Animal Planet
 http://89.216.39.29:8001/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/726.jpg", National Geographic
