@@ -38,9 +38,9 @@ http://102.222.213.43:7000/play/a00a/index.m3u8
 #EXTINF:-1, Filmbox Stars
 http://102.222.213.43:7000/play/a00m/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/792.jpg", Viasat3
-
+http://86.122.134.15:4800/play/a03y
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/752.jpg", Viasat6
-
+http://86.122.134.15:4800/play/a03z
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/944.jpg", Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/906.jpg", Film+
