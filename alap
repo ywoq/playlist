@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=xddy7-kDdkE
 http://102.222.213.43:7000/play/a00i/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/265/100x60/406.jpg", Pesti TV
 http://194.76.186.68:8000/play/a00k
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/710.jpg", Hír TV
+#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/710.jpg", HirTV
 http://102.222.213.43:7000/play/a012/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/916.jpg", TV2 Comedy
 http://89.216.39.29:8005/
@@ -122,7 +122,7 @@ http://102.222.213.43:7000/play/a01d/index.m3u8
 http://102.222.213.43:7000/play/a00j/index.m3u8
 #EXTINF:-1, Nicktoons
 http://86.122.134.15:4700/play/a040
-#EXTINF:-1, Nickelodeon
+#EXTINF:-1, Nickelodeon HU
 http://86.122.134.15:4700/play/a026
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://86.122.134.15:4800/play/a017
