@@ -54,7 +54,7 @@ http://102.222.213.43:7000/play/a01c/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Digi Sport 1
 http://193.33.39.106:8781/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/822.jpg", Digi Sport 2
-
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/2241
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/876.jpg", Digi Sport 3
 #EXTINF:-1, Arena4
 http://86.122.134.15:4800/play/a03w
