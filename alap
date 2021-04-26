@@ -114,7 +114,7 @@ http://89.216.39.29:8003/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", Boomerang
 #EXTINF:-1, Da Vinci Learning
 http://86.122.134.15:4700/play/a0bo
-#EXTINF:-1, tvg-logo="https://media.port.hu/images/001/240/100x60/308.jpg", TV2 Kids
+#EXTINF:-1, TV2 Kids
 http://86.122.134.15:4600/play/a172
 #EXTINF:-1, JimJam
 http://102.222.213.43:7000/play/a01d/index.m3u8
