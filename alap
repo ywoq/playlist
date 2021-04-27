@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/708.jpg", m1
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/982.jpg", m2 / Petofi 
-
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/168411
 #EXTINF:-1, tvg-logo="https://ripost.hu/wp-content/uploads/2020/03/M3logoM3508x360.jpg", m3
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/874.jpg", M4 Sport
@@ -89,6 +89,10 @@ http://86.122.134.15:4600/play/a16x
 http://86.122.134.15:4600/play/a174
 #EXTINF:-1, Galaxy
 http://pn.tvott.info:80/1932742343/4458181593/82645
+#EXTINF:-1, LifeTv
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/174638
+#EXTINF:-1, LifeTv
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/84455
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
