@@ -143,7 +143,7 @@ http://86.122.134.15:4700/play/a026
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://86.122.134.15:4800/play/a017
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/986.jpg", Jocky tv
-
+http://194.76.186.68:8000/play/a00r
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/766.jpg", Sorozat+
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/272/100x60/198.jpg", TV2 Séf
