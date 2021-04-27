@@ -73,7 +73,8 @@ http://194.76.186.68:8000/play/a00g
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler2 TV
 http://194.76.186.68:8000/play/a00p
 #EXTINF:-1, Eurosport 1
-
+#EXTINF:-1, Extreme Sports
+http://pn.tvott.info:80/1932742343/4458181593/82612
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/768.jpg", RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/238/100x60/672.jpg", RTL2
