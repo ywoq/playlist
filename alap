@@ -88,6 +88,8 @@ http://86.122.134.15:4600/play/a174
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
 https://streaming.mytvback.com:443/stream/263n9jXnR6sXj_tE9XPWZg/1619277079/channel016/stream.m3u8
+#EXTINF:-1, DIGI World
+http://rv.flysat.live:80/musa1/musa2/82654?checkedby:iptvcat.com
 #EXTINF:-1, History
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72611
 #EXTINF:-1, Viasat History
