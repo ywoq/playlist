@@ -18,7 +18,7 @@ http://193.33.39.106:8782/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/698.jpg", RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/724.jpg", AMC HU
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72597?checkedby:hlscat.com
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13425
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/818.jpg", Mozi+
 http://86.122.134.15:4600/play/a16w
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/818.jpg", Mozi+
