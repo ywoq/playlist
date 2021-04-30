@@ -91,7 +91,7 @@ http://86.122.134.15:4600/play/a16x
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/910.jpg", Story4
 http://86.122.134.15:4600/play/a174
 #EXTINF:-1, Galaxy
-http://pn.tvott.info:80/1932742343/4458181593/82645
+
 #EXTINF:-1, 
 
 #EXTINF:-1, LifeTv
@@ -99,17 +99,17 @@ http://bazarhd.online:80/2993289990/5002883998/82694
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
-https://streaming.mytvback.com:443/stream/263n9jXnR6sXj_tE9XPWZg/1619277079/channel016/stream.m3u8
+
 #EXTINF:-1, DIGI World
-http://rv.flysat.live:80/musa1/musa2/82654?checkedby:iptvcat.com
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/27783
 #EXTINF:-1, History
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72611
 #EXTINF:-1, Viasat Explore
-http://pn.tvott.info:80/1932742343/4458181593/82593
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23965
 #EXTINF:-1, Viasat History
 http://pn.tvott.info:80/1932742343/4458181593/82590
 #EXTINF:-1, Viasat History
-http://pn.tvott.info:80/1932742343/4458181593/82592
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13331
 #EXTINF:-1, Viasat Explore
 http://pn.tvott.info:80/1932742343/4458181593/82593
 #EXTINF:-1, Animal Planet
@@ -119,7 +119,7 @@ http://rv.flysat.live:80/musa1/musa2/82595
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/702.jpg", National Geographic Wild 
 http://89.216.39.29:8004/
 #EXTINF:-1, Viasat Nature
-http://102.222.213.43:7000/play/a00c/index.m3u8
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23966
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
