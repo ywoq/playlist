@@ -115,7 +115,7 @@ http://pn.tvott.info:80/1932742343/4458181593/82593
 #EXTINF:-1, Animal Planet
 http://89.216.39.29:8001/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/726.jpg", National Geographic
-http://rv.flysat.live:80/musa1/musa2/82595
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/702.jpg", National Geographic Wild 
 http://89.216.39.29:8004/
 #EXTINF:-1, Viasat Nature
@@ -123,14 +123,15 @@ http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/23966
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
-http://rv.flysat.live:80/musa1/musa2/82683
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum
 http://pn.tvott.info:80/1932742343/4458181593/82719
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/243/100x60/060.jpg", Spektrum Home
+
 #EXTINF:-1, OzoneTv 
 http://pn.tvott.info:80/1932742343/4458181593/82690
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/760.jpg", Fishing and Hunting
-http://bazarhd.online:80/2993289990/5002883998/82668
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/796.jpg", LifeTv
 #EXTINF:-1, Euronews
 
@@ -163,7 +164,7 @@ http://86.122.134.15:4600/play/a172
 #EXTINF:-1, JimJam
 http://pn.tvott.info:80/1932742343/4458181593/82622
 #EXTINF:-1, Disney Channel
-http://bazarhd.online:80/2993289990/5002883998/82627
+
 #EXTINF:-1, Minimax
 http://pn.tvott.info:80/1932742343/4458181593/82625
 #EXTINF:-1, Nicktoons
@@ -171,7 +172,7 @@ http://86.122.134.15:4700/play/a040
 #EXTINF:-1, Nickelodeon HU
 http://86.122.134.15:4700/play/a026
 #EXTINF:-1, Epic Drama
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/50611
+
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://86.122.134.15:4800/play/a017
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/986.jpg", Jocky tv
