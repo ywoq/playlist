@@ -174,7 +174,7 @@ http://86.122.134.15:4700/play/a040
 #EXTINF:-1, Nickelodeon HU
 http://86.122.134.15:4700/play/a026
 #EXTINF:-1, Epic Drama
-
+http://82.197.212.210:8000/play/a130/index.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/890.jpg", Izaura TV
 http://86.122.134.15:4800/play/a017
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/986.jpg", Jocky tv
