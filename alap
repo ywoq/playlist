@@ -74,7 +74,7 @@ http://194.76.186.68:8000/play/a00g
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Sport2
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spiler1 TV
-
+http://86.122.134.15:4800/play/a00d
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/794.jpg", Spíler2 TV
 http://194.76.186.68:8000/play/a00p
 #EXTINF:-1, Eurosport 1
