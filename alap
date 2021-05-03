@@ -43,6 +43,10 @@ http://86.122.134.15:4800/play/a041
 http://86.122.134.15:4800/play/a040
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/920.jpg", AXN CE
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/14968
+#EXTINF:-1, AXN White
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13418
+#EXTINF:-1, AXN Black
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/13421
 #EXTINF:-1, Filmbox
 http://86.122.134.15:4600/play/a0o5
 #EXTINF:-1, Filmbox Premium
