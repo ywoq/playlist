@@ -65,6 +65,8 @@ http://86.122.134.15:4800/play/a03y
 http://86.122.134.15:4800/play/a03z
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/944.jpg", Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1, Film4
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/77756
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/906.jpg", Film+
 http://89.216.39.29:8006/
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/696.jpg", Moziverzum
