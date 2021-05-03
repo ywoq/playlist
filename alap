@@ -139,6 +139,10 @@ http://pn.tvott.info:80/1932742343/4458181593/82690
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/760.jpg", Fishing and Hunting
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/796.jpg", LifeTv
+
+#EXTINF:-1, CBS Reality
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/50585
+
 #EXTINF:-1, Euronews
 
 #EXTINF:-1, HGTV
