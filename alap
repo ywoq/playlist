@@ -107,6 +107,9 @@ http://bazarhd.online:80/2993289990/5002883998/82694
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/800.jpg", Prime
 
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/894.jpg", Fem3
+
+#EXTINF:-1, Discovery
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/24910
 #EXTINF:-1, Discovery Science
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/72602
 #EXTINF:-1, DIGI World
