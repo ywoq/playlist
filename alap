@@ -104,6 +104,8 @@ https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
 http://86.122.134.15:4600/play/a16x
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/910.jpg", Story4
 http://86.122.134.15:4600/play/a174
+#EXTINF:-1, SuperTV2 
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/39460
 #EXTINF:-1, Galaxy
 
 #EXTINF:-1, TLC
