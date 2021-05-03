@@ -205,6 +205,8 @@ https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 http://86.122.134.15:4600/play/a16u
 #EXTINF:-1,  TV Paprika
 http://89.216.39.29:8008/
+#EXTINF:-1, MTV
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/32813
 #EXTINF:-1, Musicplus
 https://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1, tvg-logo="https://media.port.hu/images/001/236/100x60/854.jpg", H!T MUSIC Channel
