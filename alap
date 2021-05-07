@@ -236,3 +236,270 @@ http://89.216.39.29:8011/
 
 #EXTINF:-1, tvg-logo="", Lóverseny közvetítés
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1,HU: AMC HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3984
+#EXTINF:-1,HU: ANIMAL PLANET HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3985
+#EXTINF:-1,HU: ATV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3986
+#EXTINF:-1,HU: AXN FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3988
+#EXTINF:-1,HU: AXN BLACK
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3989
+#EXTINF:-1,HU: AXN White HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3990
+#EXTINF:-1,HU: BBC Earth HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3991
+#EXTINF:-1,HU: Boomerang
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3993
+#EXTINF:-1,HU: CBS Reality
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3995
+#EXTINF:-1,HU: Chili TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3996
+#EXTINF:-1,HU: Cinemax 2
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3998
+#EXTINF:-1,HU: Comedy Central
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3999
+#EXTINF:-1,HU: Cool HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4000
+#EXTINF:-1,HU: DIGI Animal World
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4001
+#EXTINF:-1,HU: DIGI Life
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4003
+#EXTINF:-1,HU: Digi World HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4007
+#EXTINF:-1,HU: Discovery Channel HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4008
+#EXTINF:-1,HU: Disney Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4010
+#EXTINF:-1,HU: Duck TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4011
+#EXTINF:-1,HU: Duna FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4012
+#EXTINF:-1,HU: Duna World
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4013
+#EXTINF:-1,HU: Extreme Sports Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4017
+#EXTINF:-1,HU: FASHION BOX
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4018
+#EXTINF:-1,HU: FEM 3
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4019
+#EXTINF:-1,HU: FILM 1
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4020
+#EXTINF:-1,HU: FILM CAFE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4021
+#EXTINF:-1,HU: Film+ FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4022
+#EXTINF:-1,HU: FilmBox Family HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4023
+#EXTINF:-1,HU: FILMBOX PLUS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4024
+#EXTINF:-1,HU: FilmBox Premium
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4025
+#EXTINF:-1,HU: Fishing & Hunting HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4027
+#EXTINF:-1,HU: Fix TV HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4028
+#EXTINF:-1,HU: Food Network
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4029
+#EXTINF:-1,HU: Galaxy 4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4030
+#EXTINF:-1,HU: HBO 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4032
+#EXTINF:-1,HU: HBO 3
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4033
+#EXTINF:-1,HU: Investigation Discovery
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4034
+#EXTINF:-1,HU: KIWI TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4036
+#EXTINF:-1,HU: M4 SPORT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4038
+#EXTINF:-1,HU: M1 FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4039
+#EXTINF:-1,HU: M2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4041
+#EXTINF:-1,HU: M3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4042
+#EXTINF:-1,HU: M4 SPORT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4043
+#EXTINF:-1,HU: M5 FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4044
+#EXTINF:-1,HU: Megamax
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4046
+#EXTINF:-1,HU: Minimax
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4047
+#EXTINF:-1,HU: nickelodeon HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4050
+#EXTINF:-1,HU: Paramount Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4052
+#EXTINF:-1,HU: Prime
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4053
+#EXTINF:-1,HU: RTL
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4054
+#EXTINF:-1,HU: RTL GOLD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4055
+#EXTINF:-1,HU: RTL II HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4056
+#EXTINF:-1,HU: SOROZAT+
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4059
+#EXTINF:-1,HU: Spektrum HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4060
+#EXTINF:-1,HU: Spektrum Home
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4061
+#EXTINF:-1,HU: Spiler 1 TV FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4062
+#EXTINF:-1,HU: SPILER 2 TV FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4734
+#EXTINF:-1,HU: STORY 4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4065
+#EXTINF:-1,HU: STORY 5
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4066
+#EXTINF:-1,HU: SUPER TV 2
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4067
+#EXTINF:-1,HU: TV2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4069
+#EXTINF:-1,HU: Viasat 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4071
+#EXTINF:-1,HU: Viasat 6
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4072
+#EXTINF:-1,HU: Viasat History
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4074
+#EXTINF:-1,HU: Viasat 3
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4075
+#EXTINF:-1,HU: Comedy Central Family 
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6585
+#EXTINF:-1,HU: DTX
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6586
+#EXTINF:-1,HU: Film4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6587
+#EXTINF:-1,HU: Nick Jr
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6588
+#EXTINF:-1,HU: HIRTV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6589
+#EXTINF:-1,HU: Da Vinci Learning
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6590
+#EXTINF:-1,HU: Discovery Science
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6591
+#EXTINF:-1,HU: Film Mania
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6592
+#EXTINF:-1,HU: History HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6594
+#EXTINF:-1,HU: History2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6595
+#EXTINF:-1,HU: Moziverzum FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6596
+#EXTINF:-1,HU: Muzsika TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6597
+#EXTINF:-1,HU: RTL Spike
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6598
+#EXTINF:-1,HU: Sony Max
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6599
+#EXTINF:-1,HU: TV Paprika
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6601
+#EXTINF:-1,HU: TLC
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6602
+#EXTINF:-1,HU: Travel Channel HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6603
+#EXTINF:-1,HU: Viasat Nature
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6604
+#EXTINF:-1,HU: Viasat Nature / History HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6605
+#EXTINF:-1,HU: Dikh TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6606
+#EXTINF:-1,HU: Epic Drama HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6607
+#EXTINF:-1,HU: Film Now
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6608
+#EXTINF:-1,HU: Heti TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6609
+#EXTINF:-1,HU: TV2 COMEDY
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6610
+#EXTINF:-1,HU: JimJam
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6611
+#EXTINF:-1,HU: Jocky TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6612
+#EXTINF:-1,HU: Mezzo
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6613
+#EXTINF:-1,HU: Music Channel
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6614
+#EXTINF:-1,HU: VH1 Classic
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6615
+#EXTINF:-1,HU: MTV DANCE
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6616
+#EXTINF:-1,HU: MTV Rocks
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6617
+#EXTINF:-1,HU: Music Plus
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6621
+#EXTINF:-1,HU: Nat Geo Wild HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6622
+#EXTINF:-1,HU: NickTOONS
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6623
+#EXTINF:-1,HU: Ozone Network
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6624
+#EXTINF:-1,HU: Trend Music
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6625
+#EXTINF:-1,HU: Zenebutik
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6626
+#EXTINF:-1,HU: RTL Klub HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4057
+#EXTINF:-1,HU: RTL KLUB HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6901
+#EXTINF:-1,HU: TV2 SD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6902
+#EXTINF:-1,HU: Sport 1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4063
+#EXTINF:-1,HU: Sport 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4064
+#EXTINF:-1,HU: Digi Sport 1 FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4004
+#EXTINF:-1,HU: DIGI Sport 1 SD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6903
+#EXTINF:-1,HU: DIGI SPORT 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4005
+#EXTINF:-1,HU: DIGI Sport 2 SD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6904
+#EXTINF:-1,HU: DIGI SPORT 3 FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4006
+#EXTINF:-1,HU: DIGI Sport 3 SD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6905
+#EXTINF:-1,HU: Balaton TV 
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10202
+#EXTINF:-1,HU: Arena 4 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10261
+#EXTINF:-1,HU: ATV Spirit
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10262
+#EXTINF:-1,HU: FIT HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10263
+#EXTINF:-1,HU: H!t Music
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10264
+#EXTINF:-1,HU: Pesti TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10265
+#EXTINF:-1,HU: TV2 Kids
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10266
+#EXTINF:-1,HU: TV2 Séf
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/10267
+#EXTINF:-1,HU: BONUM
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3992
+#EXTINF:-1,HU: Fine Living
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4026
+#EXTINF:-1,HU: HBO 1 FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4031
+#EXTINF:-1,HU: Izaura TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4035
+#EXTINF:-1,HU: Life Network HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4037
+#EXTINF:-1,HU: NAT GEO FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4049
+#EXTINF:-1,HU: SLAGER TV
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4058
+#EXTINF:-1,HU: Szolnok TV HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4068
+#EXTINF:-1,HU: TV4
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4070
+#EXTINF:-1,HU: Viasat Explore
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4073
+#EXTINF:-1,HU: Mozi+ FHD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4048
+#EXTINF:-1,HU: Auto Motor Sport
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/3987
+
