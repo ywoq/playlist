@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Apostol TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/62774
+
 #EXTINF:-1, AMC HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62775
 #EXTINF:-1, Animal Planet HD
@@ -11,8 +10,6 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/62777
 http://new-pro.tv:8080/Hotel-2021/Allroom/62780
 #EXTINF:-1, Boomerang HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62781
-#EXTINF:-1, Bonum
-http://new-pro.tv:8080/Hotel-2021/Allroom/62783
 #EXTINF:-1, Cartoon Network HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62784
 #EXTINF:-1, CBS Reality HD
@@ -27,7 +24,7 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/62788
 http://new-pro.tv:8080/Hotel-2021/Allroom/62789
 #EXTINF:-1, Comedy Central Family
 http://new-pro.tv:8080/Hotel-2021/Allroom/62790
-#EXTINF:-1, Cool
+#EXTINF:-1, Cool HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62791
 #EXTINF:-1, Discovery ID HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62792
@@ -41,11 +38,9 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/62797
 http://new-pro.tv:8080/Hotel-2021/Allroom/62800
 #EXTINF:-1, Dtx
 http://new-pro.tv:8080/Hotel-2021/Allroom/62801
-#EXTINF:-1, Duck TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/62802
-#EXTINF:-1, Duna Tv
+#EXTINF:-1, Duna HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62805
-#EXTINF:-1, Duna World
+#EXTINF:-1, Duna World HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/62806
 #EXTINF:-1, Erdely TV
 http://new-pro.tv:8080/Hotel-2021/Allroom/62807
