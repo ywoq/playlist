@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1, m1
+#EXTINF:-1, M1 HD
 http://152.66.115.226:33391/bysid/100
-#EXTINF:-1, m2 / Petofi 
+#EXTINF:-1, M2 / Petőfi HD 
 http://152.66.115.226:33390/bysid/200
 #EXTINF:-1, m3
 
-#EXTINF:-1, M4 Sport
+#EXTINF:-1, M4 Sport HD
 http://152.66.115.226:33391/bysid/101
-#EXTINF:-1, M5
+#EXTINF:-1, M5 HD
 http://152.66.115.226:33390/bysid/201
-#EXTINF:-1, Duna TV
+#EXTINF:-1, Duna HD
 http://152.66.115.226:33391/bysid/102
-#EXTINF:-1, Duna World
+#EXTINF:-1, Duna World HD
 http://152.66.115.226:33391/bysid/103
 #EXTINF:-1, TV2
 http://152.66.115.226:33390/bysid/202
