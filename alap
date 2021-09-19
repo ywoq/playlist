@@ -29,6 +29,8 @@ http://89.216.39.29:8006/
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, HBO HD
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275360
+#EXTINF:-1, HBO HD
+http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:-1, HBO2
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/144621
 #EXTINF:-1, HBO3
