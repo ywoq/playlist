@@ -48,7 +48,7 @@ http://89.216.39.29:8002/
 #EXTINF:-1, Viasat6
 #EXTINF:-1, BBC Earth
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275321
-#EXTINF:-1, Cool  HD
+#EXTINF:-1, Cool HD
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 #EXTINF:-1, TV4
 
@@ -64,7 +64,7 @@ https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 
 #EXTINF:-1, National Geographic Wild
 http://89.216.39.29:8004/
-#EXTINF:-1, Animal Planet  HD
+#EXTINF:-1, Animal Planet HD
 http://89.216.39.29:8001/
 #EXTINF:-1, Comedy Central
 http://89.216.39.29:8003/
@@ -75,11 +75,11 @@ http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, TV Paprika
 http://89.216.39.29:8008/
 #EXTINF:-1, TV2 Séf
-#EXTINF:-1, ATV  HD
+#EXTINF:-1, ATV HD
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, RTL+
 http://89.216.39.29:8009/
-#EXTINF:-1, RTL2  HD
+#EXTINF:-1, RTL 2 HD
 http://89.216.39.29:8010/
 #EXTINF:-1, FIX
 rtmp://video.fixhd.tv:1935/fix/hd.stream
