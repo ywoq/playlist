@@ -46,6 +46,8 @@ http://89.216.39.29:8002/
 #EXTINF:-1, Viasat3
 
 #EXTINF:-1, Viasat6
+#EXTINF:-1, Viasat Explore
+http://194.76.186.32:8030/play/a00t/index.m3u8
 #EXTINF:-1, BBC Earth
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275321
 #EXTINF:-1, Cool HD
