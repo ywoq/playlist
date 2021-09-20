@@ -18,7 +18,8 @@ http://152.66.115.226:33390/bysid/202
 #EXTINF:-1, TV2 HD
 http://193.33.39.106:8782/
 #EXTINF:-1, Film Now
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275331
+#EXTINF:-1, AXN HD
+http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99073
 #EXTINF:-1, RTL Klub HD
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1, RTL Klub HD
@@ -63,7 +64,7 @@ http://194.76.186.32:8030/play/a00t/index.m3u8
 #EXTINF:-1, National Geographic HD
 http://46.149.191.219:9109/play/a003
 #EXTINF:-1, BBC Earth
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275321
+
 #EXTINF:-1, History HD
 http://46.149.191.219:9114/play/a00g
 #EXTINF:-1, Viasat History SD
