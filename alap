@@ -50,7 +50,8 @@ http://46.149.191.219:9115/play/a009
 #EXTINF:-1, Moziverzum
 
 #EXTINF:-1, Filmbox
-
+#EXTINF:-1, Filmbox Plus HD
+http://46.149.191.219:9114/play/a008
 #EXTINF:-1, Filmbox Premium
 http://89.216.39.29:8002/
 #EXTINF:-1, Viasat3
