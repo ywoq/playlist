@@ -39,6 +39,10 @@ http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/144621
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275362
 #EXTINF:-1, Film Now
 http://193.33.39.106:8790/
+#EXTINF:-1, Cinemax
+http://46.149.191.219:9114/play/a006
+#EXTINF:-1, Cinemax 2
+http://46.149.191.219:9115/play/a009
 #EXTINF:-1, Sony Movie Channel 
 
 #EXTINF:-1, Sony Max
