@@ -28,7 +28,7 @@ http://89.216.39.29:8006/
 #EXTINF:-1, FILM+ HD
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, HBO HD
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275360
+
 #EXTINF:-1, HBO HD
 http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:-1, HBO HD
@@ -95,7 +95,7 @@ http://89.216.39.29:8005/
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, FEM3
-https://streaming.mytvback.com:443/stream/QBgkILtKiVx2VIycqXy_4w/1632075098/channel016/stream.m3u8
+http://46.149.191.219:9112/play/a00g
 #EXTINF:-1, TV Paprika
 http://89.216.39.29:8008/
 #EXTINF:-1, TV2 Séf
