@@ -34,9 +34,9 @@ http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:-1, HBO HD
 http://46.149.191.219:9109/play/a008
 #EXTINF:-1, HBO2
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/144621
+http://46.149.191.219:9115/play/a006
 #EXTINF:-1, HBO3
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/275362
+http://46.149.191.219:9115/play/a007
 #EXTINF:-1, Film Now
 http://193.33.39.106:8790/
 #EXTINF:-1, Cinemax
