@@ -36,7 +36,7 @@ http://89.216.39.29:8001/
 http://89.216.39.29:8003/
 #EXTINF:-1, Cool
 
-#EXTINF:-1,HU: Ozone Network
+#EXTINF:-1, Ozone Network
 
 #EXTINF:-1, Digi World
 
@@ -62,7 +62,7 @@ http://89.216.39.29:8003/
 
 #EXTINF:-1, Duck TV
 
-#EXTINF:-1,HU: Duna HD
+#EXTINF:-1, Duna HD
 
 #EXTINF:-1, Duna World HD
 
@@ -76,7 +76,7 @@ http://89.216.39.29:8003/
 
 #EXTINF:-1, Epic Drama
 
-#EXTINF:-1,HU: FEM 3
+#EXTINF:-1, FEM 3
 
 #EXTINF:-1, Film+
 http://89.216.39.29:8006/
@@ -84,9 +84,9 @@ http://89.216.39.29:8006/
 
 #EXTINF:-1, FilmBox Family
 
-#EXTINF:-1,HU: FilmBox PLUS
+#EXTINF:-1, FilmBox PLUS
 
-#EXTINF:-1,HU: FilmBox Premium
+#EXTINF:-1, FilmBox Premium
 http://89.216.39.29:8002/
 #EXTINF:-1, FilmCafe
 
@@ -102,7 +102,7 @@ http://89.216.39.29:8002/
 
 #EXTINF:-1, FilmNow
 
-#EXTINF:-1,HU: H!T MUSIC Channel
+#EXTINF:-1, H!T MUSIC Channel
 
 #EXTINF:-1, HBO
 
@@ -134,7 +134,7 @@ http://89.216.39.29:8002/
 
 #EXTINF:-1, Miniamax
 
-#EXTINF:-1,HU: Mozi
+#EXTINF:-1, Mozi
 
 #EXTINF:-1, MTV
 
@@ -166,17 +166,17 @@ http://89.216.39.29:8010/
 
 #EXTINF:-1, RTL Gold
 
-#EXTINF:-1,HU: RTL Spike
+#EXTINF:-1, RTL Spike
 
-#EXTINF:-1,HU: Szolnok TV HD
+#EXTINF:-1, Szolnok TV HD
 
-#EXTINF:-1,HU: Spektrum
+#EXTINF:-1, Spektrum
 
-#EXTINF:-1,HU: Spektrum Home
+#EXTINF:-1, Spektrum Home
 
-#EXTINF:-1,HU: Spiler 1
+#EXTINF:-1, Spiler 1
 
-#EXTINF:-1,HU: Spíler 2
+#EXTINF:-1, Spíler 2
 
 #EXTINF:-1, Sony
 
