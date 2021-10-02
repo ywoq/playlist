@@ -38,6 +38,8 @@ http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99097
 http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:-1, HBO HD
 http://46.149.191.219:9109/play/a008
+#EXTINF:-1, HBO HD
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/121040
 #EXTINF:-1, HBO2
 http://46.149.191.219:9115/play/a006
 #EXTINF:-1, HBO2
