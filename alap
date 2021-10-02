@@ -29,15 +29,19 @@ http://89.216.39.29:8006/
 #EXTINF:-1, FILM+ HD
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, HBO HD
-
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99097
 #EXTINF:-1, HBO HD
 http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:-1, HBO HD
 http://46.149.191.219:9109/play/a008
 #EXTINF:-1, HBO2
 http://46.149.191.219:9115/play/a006
+#EXTINF:-1, HBO2
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99098
 #EXTINF:-1, HBO3
 http://46.149.191.219:9115/play/a007
+#EXTINF:-1, HBO3
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99099
 #EXTINF:-1, Film Now
 http://193.33.39.106:8790/
 #EXTINF:-1, Cinemax
