@@ -62,7 +62,8 @@ http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99164
 http://46.149.191.219:9113/play/a009
 #EXTINF:-1, Prime TV
 http://46.149.191.219:9113/play/a004
-Super TV2 HD
+#EXTINF:-1, Paramount Channel HD
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99113
 #EXTINF:-1, Sony Movie Channel 
 
 #EXTINF:-1, Sony Max
@@ -120,7 +121,8 @@ http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99081
 #EXTINF:-1, Spiler1 TV
 
 #EXTINF:-1, Spíler2 TV
-
+#EXTINF:-1, National Geographic HD 
+http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99111
 #EXTINF:-1, National Geographic Wild
 http://89.216.39.29:8004/
 #EXTINF:-1, Animal Planet HD
