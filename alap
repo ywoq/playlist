@@ -18,12 +18,13 @@ http://152.66.115.226:33390/bysid/202
 #EXTINF:-1, TV2 HD
 http://193.33.39.106:8782/
 #EXTINF:-1, Film Now
+
 #EXTINF:-1, AMC HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99070
+
 #EXTINF:-1, AXN HD
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99073
+
 #EXTINF:-1, AXN HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99073
+
 #EXTINF:-1, RTL Klub HD
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1, RTL Klub HD
@@ -33,7 +34,7 @@ http://89.216.39.29:8006/
 #EXTINF:-1, FILM+ HD
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, HBO HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99097
+
 #EXTINF:-1, HBO HD
 http://82.197.212.210:8000/play/a11d/index.m3u8
 #EXTINF:-1, HBO HD
@@ -43,13 +44,13 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/121040
 #EXTINF:-1, HBO2
 http://46.149.191.219:9115/play/a006
 #EXTINF:-1, HBO2
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99098
+
 #EXTINF:-1, HBO3
 http://46.149.191.219:9115/play/a007
 #EXTINF:-1, HBO3
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99099
+
 #EXTINF:-1, FilmCafe 
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99093
+
 #EXTINF:-1, Film Now
 http://193.33.39.106:8790/
 #EXTINF:-1, Cinemax
@@ -57,15 +58,15 @@ http://46.149.191.219:9114/play/a006
 #EXTINF:-1, Cinemax 2
 http://46.149.191.219:9115/play/a009
 #EXTINF:-1, Mozi+ HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99107
+
 #EXTINF:-1, Super TV2 HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99164
+
 #EXTINF:-1, Super TV2 HD
 http://46.149.191.219:9113/play/a009
 #EXTINF:-1, Prime TV
 http://46.149.191.219:9113/play/a004
 #EXTINF:-1, Paramount Channel HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99113
+
 #EXTINF:-1, Sony Movie Channel 
 
 #EXTINF:-1, Sony Max
@@ -80,9 +81,8 @@ http://46.149.191.219:9114/play/a008
 #EXTINF:-1, Filmbox Premium
 http://89.216.39.29:8002/
 #EXTINF:-1, Viasat3
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99130
-#EXTINF:-1, Viasat6
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99131
+
+
 #EXTINF:-1, TV4
 http://46.149.191.219:9113/play/a00b
 #EXTINF:-1, Story4
@@ -92,14 +92,15 @@ http://194.76.186.32:8030/play/a00t/index.m3u8
 #EXTINF:-1, National Geographic HD
 http://46.149.191.219:9109/play/a003
 #EXTINF:-1, BBC Earth
+
 #EXTINF:-1, Travel HD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99127
+
 #EXTINF:-1, Discovery Science
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99083
+
 #EXTINF:-1, History HD
 http://46.149.191.219:9114/play/a00g
 #EXTINF:-1, Viasat History SD
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99129
+
 #EXTINF:-1, Viasat History SD
 http://194.76.186.32:8030/play/a00u/index.m3u8
 #EXTINF:-1, Spektrum HD
@@ -113,18 +114,19 @@ https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 #EXTINF:-1, Arena4
 
 #EXTINF:-1, DIGI Sport 1
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99079
+
 #EXTINF:-1, DIGI Sport 2
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99080
+
 #EXTINF:-1, DIGI Sport 3
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99081
+
 
 
 #EXTINF:-1, Spiler1 TV
 
 #EXTINF:-1, Spíler2 TV
+
 #EXTINF:-1, National Geographic HD 
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99111
+
 #EXTINF:-1, National Geographic Wild
 http://89.216.39.29:8004/
 #EXTINF:-1, Animal Planet HD
@@ -171,4 +173,4 @@ http://89.216.39.29:8011/
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
 #EXTINF:-1, Brazzers TV (18+)
-http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/99077
+
