@@ -37,6 +37,8 @@ http://194.76.186.32:8030/play/a00u/index.m3u8
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Discovery Channel
 http://79.114.34.202:8000/play/a05u
+#EXTINF:-1, Fishing and Hunting
+http://79.114.34.202:8000/play/a04g
 #EXTINF:-1, Nicktoons
 http://79.114.34.202:8000/play/a02t
 #EXTINF:-1, Izaura TV
