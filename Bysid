@@ -39,7 +39,11 @@ http://152.66.115.226:33390/bysid/207
 http://79.114.34.202:8000/play/a05u
 #EXTINF:-1, Fishing and Hunting
 http://79.114.34.202:8000/play/a04g
+#EXTINF:-1, Da Vinci Kids
+http://79.114.34.202:8000/play/a01p
 #EXTINF:-1, Nicktoons
 http://79.114.34.202:8000/play/a02t
 #EXTINF:-1, Izaura TV
 http://152.66.115.226:33390/bysid/204
+#EXTINF:-1, Sorozat +
+https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
