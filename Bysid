@@ -43,6 +43,8 @@ https://streaming.mytvback.com:443/stream/b5d63I4ie69-EsGapQ54Sg/1639941117/chan
 http://79.114.34.202:8000/play/a01p
 #EXTINF:-1, Nicktoons
 http://79.114.34.202:8000/play/a02t
+#EXTINF:-1, Cartoon Network
+http://77.89.204.105:8001/play/a00v/index.m3u8
 #EXTINF:-1, Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, Sorozat +
