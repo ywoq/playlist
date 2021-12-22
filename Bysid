@@ -17,14 +17,12 @@ http://152.66.115.226:33390/bysid/202
 http://152.66.115.226:33390/bysid/203
 #EXTINF:-1, RTL Klub HD
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1, HBO HD
-http://194.76.186.32:8030/play/a004/index.m3u8
+
 #EXTINF:-1, FILM+ HD
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Cool HD
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
-#EXTINF:-1, Epic Drama
-http://79.114.34.202:8000/play/a02n
+
 #EXTINF:-1, RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1, RTL+
@@ -39,8 +37,7 @@ http://77.89.204.105:8001/play/a00b/index.m3u8
 http://194.76.186.32:8030/play/a00u/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
-#EXTINF:-1, LifeTv
-https://streaming.mytvback.com:443/stream/b5d63I4ie69-EsGapQ54Sg/1639941117/channel043/stream.m3u8
+
 #EXTINF:-1, Da Vinci Kids
 http://79.114.34.202:8000/play/a01p
 #EXTINF:-1, Nicktoons
