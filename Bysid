@@ -38,6 +38,10 @@ http://194.76.186.32:8030/play/a00u/index.m3u8
 #EXTINF:-1, Spektrum Home
 
 
+#EXTINF:-1, FEM3
+https://streaming.mytvback.com:443/stream/uu9JCo4NemcVitiVsJMRIw/1641744711/channel016/stream.m3u8
+#EXTINF:-1, LifeTv
+https://streaming.mytvback.com:443/stream/gecMI91a001vJyevy_mCpA/1641744667/channel043/stream.m3u8
 #EXTINF:-1, Da Vinci Kids
 http://79.114.34.202:8000/play/a01p
 #EXTINF:-1, Nicktoons
