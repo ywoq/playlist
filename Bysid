@@ -2,19 +2,19 @@
 #EXTINF:-1, M1 HD
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1, M2 / Petőfi HD
-http://152.66.115.226:33390/bysid/200
+
 #EXTINF:-1, M4 Sport HD
 http://152.66.115.226:33391/bysid/101
 #EXTINF:-1, M5 HD
-http://152.66.115.226:33390/bysid/201
+
 #EXTINF:-1, Duna HD
 http://152.66.115.226:33391/bysid/102
 #EXTINF:-1, Duna World HD
 http://152.66.115.226:33391/bysid/103
 #EXTINF:-1, TV2 HD
-http://152.66.115.226:33390/bysid/202
+
 #EXTINF:-1, RTL Klub HD
-http://152.66.115.226:33390/bysid/203
+
 #EXTINF:-1, RTL Klub HD
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 
@@ -36,7 +36,7 @@ http://77.89.204.105:8001/play/a00b/index.m3u8
 #EXTINF:-1, Viasat History SD
 http://194.76.186.32:8030/play/a00u/index.m3u8
 #EXTINF:-1, Spektrum Home
-http://152.66.115.226:33390/bysid/207
+
 
 #EXTINF:-1, Da Vinci Kids
 http://79.114.34.202:8000/play/a01p
