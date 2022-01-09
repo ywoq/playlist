@@ -52,3 +52,63 @@ http://77.89.204.105:8001/play/a00v/index.m3u8
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, Sorozat +
 https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1, AXN HD
+http://79.114.34.202:8000/play/a049
+#EXTINF:-1, AXN white
+http://79.114.34.202:8000/play/a02r
+#EXTINF:-1, AXN black
+http://79.114.34.202:8000/play/a02b
+#EXTINF:-1, Epic drama
+http://79.114.34.202:8000/play/a01w
+#EXTINF:-1, Discovery
+http://79.114.34.202:8000/play/a05u
+#EXTINF:-1, Viasat Explore
+http://79.114.34.202:8000/play/a05n
+#EXTINF:-1, Viasat Nature
+http://79.114.34.202:8000/play/a04z
+#EXTINF:-1, History
+http://79.114.34.202:8000/play/a04y
+#EXTINF:-1, BBC Earth
+http://79.114.34.202:8000/play/a05v
+#EXTINF:-1, Travel
+http://79.114.34.202:8000/play/a050
+#EXTINF:-1, HGTV
+http://79.114.34.202:8000/play/a05m
+#EXTINF:-1, Fishing
+http://79.114.34.202:8000/play/a04g
+#EXTINF:-1, TLC
+http://79.114.34.202:8000/play/a03s
+#EXTINF:-1, Digi Sport 1
+http://79.114.34.202:8000/play/a02l
+#EXTINF:-1, Digi Sport 2
+
+#EXTINF:-1, Digi Sport 3
+http://79.114.34.202:8000/play/a048
+#EXTINF:-1, Digi Sport 4
+http://79.114.34.202:8000/play/a03q
+#EXTINF:-1, Eurosport2  
+http://79.114.34.202:8000/play/a04x
+#EXTINF:-1, Cartoon Network
+http://79.114.34.202:8000/play/a038
+#EXTINF:-1, Nickjr
+http://79.114.34.202:8000/play/a051
+#EXTINF:-1, Nickelodeon
+http://79.114.34.202:8000/play/a02s
+#EXTINF:-1, Da Vinci Kids
+http://79.114.34.202:8000/play/a01p
+#EXTINF:-1, JimJam
+http://79.114.34.202:8000/play/a03j
+#EXTINF:-1, Boomerang
+http://79.114.34.202:8000/play/a01x
+#EXTINF:-1, TeenNick
+http://79.114.34.202:8000/play/a01w
+#EXTINF:-1, MTV 2000
+http://79.114.34.202:8000/play/a063
+#EXTINF:-1, MTV
+http://79.114.34.202:8000/play/a05r
+#EXTINF:-1, ROCKtv
+http://79.114.34.202:8000/play/a05d
+#EXTINF:-1, Mezzo
+http://79.114.34.202:8000/play/a02u
+#EXTINF:-1, Fashion
+http://79.114.34.202:8000/play/a02h
