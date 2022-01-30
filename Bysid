@@ -38,6 +38,8 @@ http://77.89.204.105:8001/play/a00b/index.m3u8
 #EXTINF:-1, Viasat History SD
 http://194.76.186.32:8030/play/a00u/index.m3u8
 #EXTINF:-1, Spektrum Home
+#EXTINF:-1, RealdTV
+https://media2.streambrothers.com:1936/8170/8170/chunklist_w1937784239.m3u8
 
 
 #EXTINF:-1, FEM3
