@@ -38,9 +38,8 @@ https://stream.diazol.hu:7152/hls/live.m3u8
 #EXTINF:-1, Viasat History SD
 
 #EXTINF:-1, Spektrum Home
-#EXTINF:-1, RealdTV
-https://media2.streambrothers.com:1936/8170/8170/chunklist_w1937784239.m3u8
 
+#EXTINF:-1, RealdTV
 
 #EXTINF:-1, FEM3
 
