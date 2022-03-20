@@ -17,12 +17,16 @@ http://152.66.115.226:33391/bysid/103
 
 #EXTINF:-1, RTL Klub HD
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
-
 #EXTINF:-1, FILM+ HD
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Cool HD
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
-
+#EXTINF:-1, HBO
+http://78.109.104.240:8000/play/a0d8/index.m3u8
+#EXTINF:-1, HBO2
+http://78.109.104.240:8000/play/a0d2/index.m3u8
+#EXTINF:-1, HBO3
+http://78.109.104.240:8000/play/a0dc/index.m3u8
 #EXTINF:-1, RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1, RTL+
