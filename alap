@@ -26,13 +26,13 @@ ts
 #EXTINF:-1, AXN Black HD
 
 #EXTINF:-1, RTL Klub HD
-http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/8927.ts
+
 #EXTINF:-1, RTL Klub HD
 
 #EXTINF:-1, FILM+ HD
-http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/8443.ts
-#EXTINF:-1, HBO HD
 
+#EXTINF:-1, HBO HD
+http://5.38.198.105:8001/play/hbohd
 #EXTINF:-1, HBO HD
 
 #EXTINF:-1, HBO HD
@@ -40,11 +40,11 @@ http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/8443.ts
 #EXTINF:-1, HBO HD
 
 #EXTINF:-1, HBO2
-
+http://5.38.198.105:8001/play/hbo2hd
 #EXTINF:-1, HBO2
 
 #EXTINF:-1, HBO3
-
+http://5.38.198.105:8001/play/hbo3hd
 #EXTINF:-1, HBO3
 
 #EXTINF:-1, FilmCafe 
