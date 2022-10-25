@@ -21,8 +21,8 @@ https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Cool HD
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
-#EXTINF:-1, HBO HD
-
+#EXTINF:-1, Nat Ge
+http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, HBO2
 
 #EXTINF:-1, HBO3
