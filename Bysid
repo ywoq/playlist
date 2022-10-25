@@ -53,9 +53,9 @@ http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/chunks.m3u8
 
 #EXTINF:-1, Nicktoons
 
-#EXTINF:-1, Cartoon Network
-
+#EXTINF:-1, Gyöngyösi Tv
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-
+http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, Sorozat +
 https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
