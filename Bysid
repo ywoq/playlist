@@ -13,8 +13,8 @@ http://152.66.115.226:33391/bysid/102
 http://152.66.115.226:33391/bysid/103
 #EXTINF:-1, TV2 HD
 http://152.66.115.226:33390/bysid/202
-#EXTINF:-1, RTL Klub HD
-
+#EXTINF:-1, Moziverzum
+http://193.33.39.108:7000/play/a008
 #EXTINF:-1, RTL Klub HD
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, FILM+ HD
