@@ -27,6 +27,10 @@ http://152.66.115.226:33390/bysid/206
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, HBO
 http://92.246.84.102:8000/play/a08r/index.m3u8
+#EXTINF:-1, HBO2
+http://149.62.177.140:8005/play/a024/index.m3u8
+#EXTINF:-1, HBO3
+http://149.62.177.140:8005/play/a025/index.m3u8
 #EXTINF:-1, RTL Gold
 https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
 #EXTINF:-1, RTL+
