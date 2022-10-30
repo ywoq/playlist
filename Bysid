@@ -13,7 +13,7 @@ http://152.66.115.226:33391/bysid/102
 http://152.66.115.226:33391/bysid/103
 #EXTINF:-1, TV2 HD
 http://152.66.115.226:33390/bysid/202
-#EXTINF:-1, Moziverzum
+#EXTINF:-1, Moziverzum HD
 http://193.33.39.108:7000/play/a008
 #EXTINF:-1, RTL Klub HD
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
@@ -21,11 +21,11 @@ https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Cool HD
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
-#EXTINF:-1, Nat Geo
+#EXTINF:-1, National Geographic HD
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
-#EXTINF:-1, HBO
+#EXTINF:-1, HBO HD
 http://92.246.84.102:8000/play/a08r/index.m3u8
 #EXTINF:-1, HBO2
 http://149.62.177.140:8005/play/a024/index.m3u8
