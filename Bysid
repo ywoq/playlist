@@ -1,51 +1,50 @@
 #EXTM3U
 #EXTINF:-1, Film4
 
-https://hls25.sweet.tv/stream/pr2u6a639esarcma2ue85gjyvs8frtm53tz9gkadqbpdvush9s23gkfgdb7t9f8fiuekp6i743n69yk7rpaif9gfjzt3ffj492eexzdksf67pyiacf24dqyyqcugxfpnfr9xutnywfqg4xsn5s======.m3u8
 #EXTINF:-1, M1 HD
-http://152.66.115.226:33391/bysid/100
+
 #EXTINF:-1, M2 / Petőfi HD
-http://152.66.115.226:33390/bysid/200
+
 #EXTINF:-1, M4 Sport HD
-http://152.66.115.226:33391/bysid/101
+
 #EXTINF:-1, M5 HD
-https://streaming.mytvback.com:443/channel006/stream.m3u8
+
 #EXTINF:-1, Duna HD
-http://152.66.115.226:33391/bysid/102
+
 #EXTINF:-1, Duna World HD
-http://152.66.115.226:33391/bysid/103
+
 #EXTINF:-1, TV2 HD
-http://152.66.115.226:33390/bysid/202
+
 #EXTINF:-1, Moziverzum HD
-http://193.33.39.108:7000/play/a008
+
 #EXTINF:-1, RTL Klub HD
-https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
+
 #EXTINF:-1, FILM+ HD
-https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
+
 #EXTINF:-1, Cool HD
-https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
+
 #EXTINF:-1, National Geographic HD
-http://152.66.115.226:33390/bysid/206
+
 #EXTINF:-1, Spektrum Home
-http://152.66.115.226:33390/bysid/207
+
 #EXTINF:-1, HBO HD
-http://193.33.39.108:7000/play/a003
+http://5.255.90.192:4002/play/a00n/index.m3u8
 #EXTINF:-1, HBO2
-
+http://5.255.90.190:5000/play/a06c/index.m3u8
 #EXTINF:-1, HBO3
-
+http://5.255.90.190:5000/play/a06d/index.m3u8
 #EXTINF:-1, RTL Gold
-https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8
+
 #EXTINF:-1, RTL+
-https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8
+
 #EXTINF:-1, RTL 2 HD 
-https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8
+
 #EXTINF:-1, ATV HD
-https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+
 #EXTINF:-1, EuorNews
-https://www.youtube.com/c/euronewsHungarian/live
+
 #EXTINF:-1, Hatos Csatorna
-http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/chunks.m3u8
+
 #EXTINF:-1, Viasat History SD
 
 #EXTINF:-1, Spektrum Home
@@ -61,8 +60,8 @@ http://hatoscsatorna.hu:8081/Hatoscsatorna/livestream/chunks.m3u8
 #EXTINF:-1, Nicktoons
 
 #EXTINF:-1, Gyöngyösi Tv
-https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+
 #EXTINF:-1, Izaura TV
-http://152.66.115.226:33390/bysid/204
+
 #EXTINF:-1, Sorozat +
-https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
+
