@@ -35,8 +35,8 @@ http://5.255.90.190:5000/play/a06c/index.m3u8
 http://5.255.90.190:5000/play/a06d/index.m3u8
 #EXTINF:-1, Cinemax
 http://5.255.90.192:4005/play/a01s
-#EXTINF:-1, Cinemax2
-http://5.255.90.190:5000/play/a06f/index.m3u8
+#EXTINF:-1, Cinemax 2
+http://5.255.90.190:5000/play/a06f/index.m3u8 
 
 #EXTINF:-1, RTL+
 
